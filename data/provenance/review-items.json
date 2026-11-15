@@ -1,0 +1,19 @@
+[
+  {
+    "reason": "Identity requires confirmation: isolated 2011 medical-equipment paper; no supporting lab source.",
+    "entrytype": "inproceedings",
+    "key": "DBLP:conf/etfa/LindemannTBG11",
+    "author": "Lars Lindemann and Mario Thron and Thomas Bangemann and Oliver S. Gro{\\ss}er",
+    "editor": "Zoubir Mammeri",
+    "title": "Integration of medical equipment into {SOA} - Enabling technology for efficient workflow management",
+    "booktitle": "{IEEE} 16th Conference on Emerging Technologies {\\&} Factory Automation, {ETFA} 2011, Toulouse, France, September 5-9, 2011",
+    "pages": "1--8",
+    "publisher": "{IEEE}",
+    "year": "2011",
+    "url": "https://doi.org/10.1109/ETFA.2011.6059233",
+    "doi": "10.1109/ETFA.2011.6059233",
+    "timestamp": "Wed, 16 Oct 2019 14:14:55 +0200",
+    "biburl": "https://dblp.org/rec/conf/etfa/LindemannTBG11.bib",
+    "bibsource": "dblp computer science bibliography, https://dblp.org"
+  }
+]

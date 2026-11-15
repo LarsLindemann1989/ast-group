@@ -1,0 +1,2034 @@
+[
+  {
+    "id": "journals-tac-MarchesiniLLD26",
+    "title": "A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multiagent Systems",
+    "authors": "Gregorio Marchesini, Siyuan Liu, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2026",
+    "type": "journal",
+    "venue": "IEEE Transactions on Automatic Control",
+    "url": "https://doi.org/10.1109/TAC.2025.3627272",
+    "sources": [
+      "https://dblp.org/rec/journals/tac/MarchesiniLLD26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2410-12563.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/TAC.2025.3627272",
+      "arXiv": "https://arxiv.org/abs/2410.12563"
+    },
+    "pages": "2359–2374",
+    "volume": "71",
+    "issue": "4",
+    "arxiv": "2410.12563"
+  },
+  {
+    "id": "journals-corr-abs-2606-13479",
+    "title": "A Reactive Redistribution Mechanism for STL Tasks in Multi-Agent Systems Under Time-Varying Communication",
+    "authors": "Gregorio Marchesini, Bjarne Jan Jesse Moro, Siyuan Liu, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2606.13479",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2606-13479.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2606.13479"
+    },
+    "arxiv": "2606.13479"
+  },
+  {
+    "id": "journals-corr-abs-2608-29789",
+    "title": "A Unified Perspective on Conformal Prediction and Wasserstein Distributionally Robust Optimization for Uncertainty Quantification",
+    "authors": "Kehan Long, Yiqi Zhao, Pol Mestres, Lars Lindemann, Nikolay Atanasov, Jorge Cortés",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2608.29789",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2608-29789.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2608.29789"
+    },
+    "arxiv": "2608.29789"
+  },
+  {
+    "id": "conf-qestformats-PaulKBWLD26",
+    "title": "An Algebraic Framework for Quantitative Semantics of Spatio-Temporal Logic with Graph Operators",
+    "authors": "Sheryl Paul, Vidisha Kudalkar, Anand Balakrishnan, Tianhao Wu, Lars Lindemann, Jyotirmoy V. Deshmukh",
+    "year": "2026",
+    "type": "conference",
+    "venue": "QEST+FORMATS",
+    "url": "https://doi.org/10.1007/978-3-032-35298-9_13",
+    "sources": [
+      "https://dblp.org/rec/conf/qestformats/PaulKBWLD26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2606-28429.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1007/978-3-032-35298-9_13",
+      "arXiv": "https://arxiv.org/abs/2606.28429"
+    },
+    "pages": "226–245",
+    "volume": "16913",
+    "arxiv": "2606.28429"
+  },
+  {
+    "id": "arxiv-2610.23746",
+    "title": "Anytime-Valid Certification of Robustness Margins for Safe Control via E-Values",
+    "authors": "Panagiotis S. Trakas, Omid Mirzaeedodangeh, Lars Lindemann",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2610.23746",
+    "arxiv": "2610.23746",
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2610.23746"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2610.23746"
+    ]
+  },
+  {
+    "id": "journals-corr-abs-2608-29559",
+    "title": "Conformal Prediction Regions for Continuous-Time Trajectories under Random Sampling",
+    "authors": "Joaquin Alvarez, Matteo Sesia, Jyotirmoy V. Deshmukh, Lars Lindemann",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2608.29559",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2608-29559.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2608.29559"
+    },
+    "arxiv": "2608.29559"
+  },
+  {
+    "id": "journals-corr-abs-2602-03986",
+    "title": "eCP: Equivariant Conformal Prediction with pre-trained models",
+    "authors": "Nikolaos Bousias, Lars Lindemann, George Pappas",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2602.03986",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2602-03986.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2602.03986"
+    },
+    "arxiv": "2602.03986"
+  },
+  {
+    "id": "conf-icra-DasCHLS26",
+    "title": "Latent Activation Editing: Inference-Time Refinement of Learned Policies for Safer Multirobot Navigation",
+    "authors": "Satyajeet Das, Darren Chiu, Zhehui Huang, Lars Lindemann, Gaurav S. Sukhatme",
+    "year": "2026",
+    "type": "conference",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "url": "https://doi.org/10.1109/ICRA57385.2026.11696670",
+    "sources": [
+      "https://dblp.org/rec/conf/icra/DasCHLS26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2509-20623.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/ICRA57385.2026.11696670",
+      "arXiv": "https://arxiv.org/abs/2509.20623"
+    },
+    "pages": "13153–13160",
+    "arxiv": "2509.20623"
+  },
+  {
+    "id": "journals-corr-abs-2607-23876",
+    "title": "Learning Input-Constrained Funnel Controllers from State Trajectory Data",
+    "authors": "Panagiotis S. Trakas, Omid Mirzaeedodangeh, Lars Lindemann",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2607.23876",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2607-23876.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2607.23876"
+    },
+    "arxiv": "2607.23876"
+  },
+  {
+    "id": "arxiv-2610.40931",
+    "title": "Learning Stabilizing Latent Feedback Controllers via Multi-Step Backward Losses",
+    "authors": "Paul Lutkus, Lars Lindemann, Stephen Tu",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2610.40931",
+    "arxiv": "2610.40931",
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2610.40931"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2610.40931"
+    ]
+  },
+  {
+    "id": "conf-eucc-BaheriL26",
+    "title": "Metriplectic Conditional Flow Matching for Structure-Preserving Dynamics Learning",
+    "authors": "Ali Baheri, Lars Lindemann",
+    "year": "2026",
+    "type": "conference",
+    "venue": "European Control Conference (ECC)",
+    "url": "https://ieeexplore.ieee.org/document/11625311",
+    "sources": [
+      "https://dblp.org/rec/conf/eucc/BaheriL26.bib"
+    ],
+    "links": {
+      "Publication": "https://ieeexplore.ieee.org/document/11625311"
+    },
+    "pages": "1885–1890"
+  },
+  {
+    "id": "arxiv-2610.26712",
+    "title": "Motion Planning with Temporal Logic Precedence Specifications in Dynamic Environments via Spacetime Augmented Graphs of Convex Sets",
+    "authors": "Shilin You, Lars Lindemann, Tyler H. Summers",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2610.26712",
+    "arxiv": "2610.26712",
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2610.26712"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2610.26712"
+    ]
+  },
+  {
+    "id": "journals-corr-abs-2607-28679",
+    "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+    "authors": "Sheryl Paul, Vidisha Kudalkar, Anand Balakrishnan, Lars Lindemann, Alberto Speranzon, Jyotirmoy V. Deshmukh",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2607.28679",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2607-28679.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2607.28679"
+    },
+    "arxiv": "2607.28679"
+  },
+  {
+    "id": "journals-csysl-VlahakisKLSSD26",
+    "title": "Multi-Agent Temporal Logic Planning via Penalty Functions and Block-Coordinate Optimization",
+    "authors": "Eleftherios E. Vlahakis, Arash Bahari Kordabad, Lars Lindemann, Pantelis Sopasakis, Sadegh Soudjani, Dimos V. Dimarogonas",
+    "year": "2026",
+    "type": "journal",
+    "venue": "IEEE Control Systems Letters",
+    "url": "https://doi.org/10.1109/LCSYS.2026.3699405",
+    "sources": [
+      "https://dblp.org/rec/journals/csysl/VlahakisKLSSD26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2602-17434.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LCSYS.2026.3699405",
+      "arXiv": "https://arxiv.org/abs/2602.17434"
+    },
+    "pages": "505–510",
+    "volume": "10",
+    "arxiv": "2602.17434"
+  },
+  {
+    "id": "journals-corr-abs-2605-12341",
+    "title": "Multi-Variable Conformal Prediction: Optimizing Prediction Sets using Multiple Calibration Variables",
+    "authors": "Laura Lützow, Simone Garatti, Marco C. Campi, Lars Lindemann, Matthias Althoff",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2605.12341",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2605-12341.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2605.12341"
+    },
+    "arxiv": "2605.12341"
+  },
+  {
+    "id": "journals-corr-abs-2606-15366",
+    "title": "Robust Conformal CBF and CLF Controllers via Iterative Policy Updates",
+    "authors": "Omid Mirzaeedodangeh, Eliot Shekhtman, Nikolai Matni, Lars Lindemann",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2606.15366",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2606-15366.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2606.15366"
+    },
+    "arxiv": "2606.15366"
+  },
+  {
+    "title": "Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction",
+    "authors": "Omid Mirzaeedodangeh, Eliot Seo Shekhtman, Nikolai Matni, Lars Lindemann",
+    "year": "2026",
+    "venue": "Learning for Dynamics and Control (L4DC)",
+    "url": "https://proceedings.mlr.press/v331/mirzaeedodangeh26a.html",
+    "id": "interactive-planning-2026",
+    "type": "conference",
+    "links": {
+      "Paper": "https://proceedings.mlr.press/v331/mirzaeedodangeh26a.html",
+      "arXiv": "https://arxiv.org/abs/2511.10586"
+    },
+    "sources": [
+      "https://proceedings.mlr.press/v331/mirzaeedodangeh26a.html",
+      "https://dblp.org/rec/journals/corr/abs-2511-10586.bib"
+    ],
+    "arxiv": "2511.10586",
+    "volume": "331",
+    "pages": "678–704"
+  },
+  {
+    "id": "journals-corr-abs-2608-23972",
+    "title": "Safety-aware Model Predictive Path Integral Control with Signal Temporal Logic",
+    "authors": "Yiqi Zhao, Taekyung Kim, Hideki Okamoto, Bardh Hoxha, Jyotirmoy V. Deshmukh, Lars Lindemann, Georgios Fainekos",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2608.23972",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2608-23972.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2608.23972"
+    },
+    "arxiv": "2608.23972"
+  },
+  {
+    "id": "journals-tac-MarchesiniLLD26a",
+    "title": "Sampling-Based Planning Under STL Specifications: A Forward Invariance Approach",
+    "authors": "Gregorio Marchesini, Siyuan Liu, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2026",
+    "type": "journal",
+    "venue": "IEEE Transactions on Automatic Control",
+    "url": "https://doi.org/10.1109/TAC.2026.3690342",
+    "sources": [
+      "https://dblp.org/rec/journals/tac/MarchesiniLLD26a.bib",
+      "https://dblp.org/rec/journals/corr/abs-2506-10739.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/TAC.2026.3690342",
+      "arXiv": "https://arxiv.org/abs/2506.10739"
+    },
+    "pages": "6728–6743",
+    "volume": "71",
+    "issue": "10",
+    "arxiv": "2506.10739"
+  },
+  {
+    "id": "journals-automatica-YuZYL26",
+    "title": "Signal temporal logic control synthesis among uncontrollable dynamic agents with conformal prediction",
+    "authors": "Xinyi Yu, Yiqi Zhao, Xiang Yin, Lars Lindemann",
+    "year": "2026",
+    "type": "journal",
+    "venue": "Automatica",
+    "url": "https://doi.org/10.1016/j.automatica.2025.112616",
+    "sources": [
+      "https://dblp.org/rec/journals/automatica/YuZYL26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2312-04242.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1016/j.automatica.2025.112616",
+      "arXiv": "https://arxiv.org/abs/2312.04242"
+    },
+    "pages": "112616",
+    "volume": "183",
+    "arxiv": "2312.04242"
+  },
+  {
+    "id": "conf-cav-SchonL26",
+    "title": "Spatiotemporal Robustness of Temporal Logic Tasks Using Multi-Objective Reasoning",
+    "authors": "Oliver Schön, Lars Lindemann",
+    "year": "2026",
+    "type": "conference",
+    "venue": "International Conference on Computer Aided Verification (CAV)",
+    "url": "https://doi.org/10.1007/978-3-032-32537-2_21",
+    "sources": [
+      "https://dblp.org/rec/conf/cav/SchonL26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2603-29868.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1007/978-3-032-32537-2_21",
+      "arXiv": "https://arxiv.org/abs/2603.29868"
+    },
+    "pages": "432–456",
+    "volume": "16684",
+    "arxiv": "2603.29868"
+  },
+  {
+    "id": "conf-icra-ZhaoGDLL26",
+    "title": "UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks",
+    "authors": "Qisheng Zhao, Meng Guo, Hengxuan Du, Lars Lindemann, Zhongkui Li",
+    "year": "2026",
+    "type": "conference",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "url": "https://doi.org/10.1109/ICRA57385.2026.11696111",
+    "sources": [
+      "https://dblp.org/rec/conf/icra/ZhaoGDLL26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2603-25395.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/ICRA57385.2026.11696111",
+      "arXiv": "https://arxiv.org/abs/2603.25395"
+    },
+    "pages": "9202–9209",
+    "arxiv": "2603.25395"
+  },
+  {
+    "id": "conf-icra-AladinBLS26",
+    "title": "V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Learned Latent Space",
+    "authors": "Faiz Aladin, Ashwin Balasubramanian, Lars Lindemann, Daniel Seita",
+    "year": "2026",
+    "type": "conference",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "url": "https://doi.org/10.1109/ICRA57385.2026.11696844",
+    "sources": [
+      "https://dblp.org/rec/conf/icra/AladinBLS26.bib",
+      "https://dblp.org/rec/journals/corr/abs-2602-23524.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/ICRA57385.2026.11696844",
+      "arXiv": "https://arxiv.org/abs/2602.23524"
+    },
+    "pages": "20550–20557",
+    "arxiv": "2602.23524"
+  },
+  {
+    "id": "journals-corr-abs-2605-13923",
+    "title": "Vision-Based Runtime Monitoring under Varying Specifications using Semantic Latent Representations",
+    "authors": "Bardh Hoxha, Oliver Schön, Hideki Okamoto, Lars Lindemann, Georgios Fainekos",
+    "year": "2026",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2605.13923",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2605-13923.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2605.13923"
+    },
+    "arxiv": "2605.13923"
+  },
+  {
+    "id": "environments-shift-2026",
+    "title": "When Environments Shift: Safe Planning with Generative Priors and Robust Conformal Prediction",
+    "authors": "Kaizer Rahaman, Jyotirmoy V. Deshmukh, Ashish R. Hota, Lars Lindemann",
+    "year": "2026",
+    "type": "conference",
+    "venue": "Learning for Dynamics and Control (L4DC)",
+    "volume": "331",
+    "pages": "601–623",
+    "url": "https://proceedings.mlr.press/v331/rahaman26a.html",
+    "links": {
+      "Publication": "https://proceedings.mlr.press/v331/rahaman26a.html",
+      "arXiv": "https://arxiv.org/abs/2602.12616"
+    },
+    "sources": [
+      "https://proceedings.mlr.press/v331/rahaman26a.html",
+      "https://dblp.org/rec/journals/corr/abs-2602-12616.bib"
+    ],
+    "arxiv": "2602.12616"
+  },
+  {
+    "id": "conf-cdc-VlahakisLD25",
+    "title": "Conformal Data-driven Control of Stochastic Multi-Agent Systems under Collaborative Signal Temporal Logic Specifications",
+    "authors": "Eleftherios E. Vlahakis, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2025",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC57313.2025.11312039",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/VlahakisLD25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2504-04615.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC57313.2025.11312039",
+      "arXiv": "https://arxiv.org/abs/2504.04615"
+    },
+    "pages": "624–629",
+    "arxiv": "2504.04615"
+  },
+  {
+    "id": "conf-rv-CairoliBDLP25",
+    "title": "Conformal Predictive Monitoring for Multi-modal Scenarios",
+    "authors": "Francesca Cairoli, Luca Bortolussi, Jyotirmoy V. Deshmukh, Lars Lindemann, Nicola Paoletti",
+    "year": "2025",
+    "type": "conference",
+    "venue": "International Conference on Runtime Verification (RV)",
+    "url": "https://doi.org/10.1007/978-3-032-05435-7_19",
+    "sources": [
+      "https://dblp.org/rec/conf/rv/CairoliBDLP25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2509-01338.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1007/978-3-032-05435-7_19",
+      "arXiv": "https://arxiv.org/abs/2509.01338"
+    },
+    "pages": "336–356",
+    "volume": "16087",
+    "arxiv": "2509.01338"
+  },
+  {
+    "id": "journals-corr-abs-2503-09816",
+    "title": "Data-Driven Distributionally Robust Control for Interacting Agents under Logical Constraints",
+    "authors": "Arash Bahari Kordabad, Eleftherios E. Vlahakis, Lars Lindemann, Sebastien Gros, Dimos V. Dimarogonas, Sadegh Soudjani",
+    "year": "2025",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2503.09816",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2503-09816.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2503.09816"
+    },
+    "arxiv": "2503.09816"
+  },
+  {
+    "id": "conf-iros-BousiasLP25",
+    "title": "Deep Equivariant Multi-Agent Control Barrier Functions",
+    "authors": "Nikolaos Bousias, Lars Lindemann, George J. Pappas",
+    "year": "2025",
+    "type": "conference",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "url": "https://doi.org/10.1109/IROS60139.2025.11246330",
+    "sources": [
+      "https://dblp.org/rec/conf/iros/BousiasLP25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2506-07755.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/IROS60139.2025.11246330",
+      "arXiv": "https://arxiv.org/abs/2506.07755"
+    },
+    "pages": "997–1004",
+    "arxiv": "2506.07755"
+  },
+  {
+    "id": "journals-tcps-ZhaoZHFDL25",
+    "title": "Distributionally Robust Predictive Runtime Verification under Spatio-Temporal Logic Specifications",
+    "authors": "Yiqi Zhao, Emily Zhu, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V. Deshmukh, Lars Lindemann",
+    "year": "2025",
+    "type": "journal",
+    "venue": "ACM Transactions on Cyber-Physical Systems",
+    "url": "https://doi.org/10.1145/3748818",
+    "sources": [
+      "https://dblp.org/rec/journals/tcps/ZhaoZHFDL25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2504-02964.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1145/3748818",
+      "arXiv": "https://arxiv.org/abs/2504.02964"
+    },
+    "pages": "44:1–44:26",
+    "volume": "9",
+    "issue": "4",
+    "arxiv": "2504.02964"
+  },
+  {
+    "id": "journals-corr-abs-2508-07515",
+    "title": "Domain-Aware Machine Learning for Accelerating MILP-Based Motion Planning with Temporal Logic and Chance Constraints",
+    "authors": "Junyang Cai, Weimin Huang, Brendan Long, Matthew Cleaveland, Jyotirmoy V. Deshmukh, Lars Lindemann, Bistra Dilkina",
+    "year": "2025",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2508.07515",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2508-07515.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2508.07515"
+    },
+    "arxiv": "2508.07515"
+  },
+  {
+    "title": "Formal Verification and Control With Conformal Prediction: Practical Safety Guarantees for Autonomous Systems",
+    "authors": "Lars Lindemann, Yiqi Zhao, Xinyi Yu, George J. Pappas, Jyotirmoy V. Deshmukh",
+    "year": "2025",
+    "venue": "IEEE Control Systems Magazine",
+    "url": "https://arxiv.org/abs/2409.00536",
+    "id": "cp-survey-2025",
+    "type": "journal",
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2409.00536"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2409.00536",
+      "https://dblp.org/rec/journals/corr/abs-2409-00536.bib",
+      "https://www.ieeecss.org/sites/ieeecss/files/documents/pcd/css_publications_content_digest_122025.pdf"
+    ],
+    "arxiv": "2409.00536",
+    "volume": "45",
+    "issue": "6",
+    "pages": "72–122"
+  },
+  {
+    "id": "conf-cdc-LutkusATL25",
+    "title": "Incremental Composition of Learned Control Barrier Functions in Unknown Environments",
+    "authors": "Paul Lutkus, Deepika Anantharaman, Stephen Tu, Lars Lindemann",
+    "year": "2025",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC57313.2025.11312655",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LutkusATL25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2409-12382.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC57313.2025.11312655",
+      "arXiv": "https://arxiv.org/abs/2409.12382"
+    },
+    "pages": "5967–5972",
+    "arxiv": "2409.12382"
+  },
+  {
+    "id": "conf-cdc-LutkusWLT25",
+    "title": "Latent Representations for Control Design with Provable Stability and Safety Guarantees",
+    "authors": "Paul Lutkus, Kaiyuan Wang, Lars Lindemann, Stephen Tu",
+    "year": "2025",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC57313.2025.11312739",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LutkusWLT25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2505-23210.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC57313.2025.11312739",
+      "arXiv": "https://arxiv.org/abs/2505.23210"
+    },
+    "pages": "2937–2944",
+    "arxiv": "2505.23210"
+  },
+  {
+    "id": "journals-tac-MehdifarLBD25",
+    "title": "Low-Complexity Control for a Class of Uncertain MIMO Nonlinear Systems Under Generalized Time-Varying Output Constraints",
+    "authors": "Farhad Mehdifar, Lars Lindemann, Charalampos P. Bechlioulis, Dimos V. Dimarogonas",
+    "year": "2025",
+    "type": "journal",
+    "venue": "IEEE Transactions on Automatic Control",
+    "url": "https://doi.org/10.1109/TAC.2024.3524276",
+    "sources": [
+      "https://dblp.org/rec/journals/tac/MehdifarLBD25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2401-03997.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/TAC.2024.3524276",
+      "arXiv": "https://arxiv.org/abs/2401.03997"
+    },
+    "pages": "4270–4285",
+    "volume": "70",
+    "issue": "7",
+    "arxiv": "2401.03997"
+  },
+  {
+    "id": "journals-corr-abs-2509-19526",
+    "title": "Metriplectic Conditional Flow Matching for Dissipative Dynamics",
+    "authors": "Ali Baheri, Lars Lindemann",
+    "year": "2025",
+    "type": "conference",
+    "venue": "NeurIPS DynaFront Workshop",
+    "url": "https://arxiv.org/abs/2509.19526",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2509-19526.bib",
+      "https://alibaheri.github.io/publications/"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2509.19526"
+    },
+    "arxiv": "2509.19526"
+  },
+  {
+    "id": "journals-corr-abs-2507-22282",
+    "title": "Multi-Agent Path Finding Among Dynamic Uncontrollable Agents with Statistical Safety Guarantees",
+    "authors": "Kegan J. Strawn, Thomy Phan, Eric Wang, Nora Ayanian, Sven Koenig, Lars Lindemann",
+    "year": "2025",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2507.22282",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2507-22282.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2507.22282"
+    },
+    "arxiv": "2507.22282"
+  },
+  {
+    "id": "conf-cdc-LutkusCL25",
+    "title": "Nonconvex Obstacle Avoidance using Efficient Sampling-Based Distance Functions",
+    "authors": "Paul Lutkus, Michelle S. Chong, Lars Lindemann",
+    "year": "2025",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC57313.2025.11312091",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LutkusCL25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2504-09038.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC57313.2025.11312091",
+      "arXiv": "https://arxiv.org/abs/2504.09038"
+    },
+    "pages": "6784–6791",
+    "arxiv": "2504.09038"
+  },
+  {
+    "id": "conf-neus-HashemiLD25",
+    "title": "PCA-DDReach: Efficient Statistical Reachability Analysis of Stochastic Dynamical Systems via Principal Component Analysis",
+    "authors": "Navid Hashemi, Lars Lindemann, Jyotirmoy V. Deshmukh",
+    "year": "2025",
+    "type": "conference",
+    "venue": "International Conference on Neuro-symbolic Systems (NeuS)",
+    "url": "https://proceedings.mlr.press/v288/hashemi25a.html",
+    "sources": [
+      "https://dblp.org/rec/conf/neus/HashemiLD25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2505-14935.bib"
+    ],
+    "links": {
+      "Publication": "https://proceedings.mlr.press/v288/hashemi25a.html",
+      "arXiv": "https://arxiv.org/abs/2505.14935"
+    },
+    "pages": "693–707",
+    "volume": "288",
+    "arxiv": "2505.14935"
+  },
+  {
+    "id": "arxiv-2509.11838",
+    "title": "Probabilistic Robustness Analysis in High Dimensional Space: Application to Semantic Segmentation Network",
+    "authors": "Navid Hashemi, Samuel Sasaki, Diego Manzanas Lopez, Lars Lindemann, Ipek Oguz, Meiyi Ma, Taylor T. Johnson",
+    "year": "2025",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2509.11838",
+    "arxiv": "2509.11838",
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2509.11838"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2509.11838"
+    ]
+  },
+  {
+    "id": "journals-corr-abs-2403-18972",
+    "title": "Risk-Aware Robotics: Tail Risk Measures in Planning, Control, and Verification",
+    "authors": "Prithvi Akella, Anushri Dixit, Mohamadreza Ahmadi, Lars Lindemann, Margaret P. Chapman, George J. Pappas, Aaron D. Ames, Joel W. Burdick",
+    "year": "2025",
+    "type": "journal",
+    "venue": "IEEE Control Systems Magazine",
+    "url": "https://doi.org/10.1109/MCS.2025.3577050",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2403-18972.bib",
+      "https://authors.library.caltech.edu/records/qmzy2-zer50"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2403.18972",
+      "Publication": "https://doi.org/10.1109/MCS.2025.3577050"
+    },
+    "arxiv": "2403.18972",
+    "volume": "45",
+    "issue": "4",
+    "pages": "46–78"
+  },
+  {
+    "id": "journals-corr-abs-2512-00453",
+    "title": "Sample-Efficient Expert Query Control in Active Imitation Learning via Conformal Prediction",
+    "authors": "Arad Firouzkouhi, Omid Mirzaeedodangeh, Lars Lindemann",
+    "year": "2025",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2512.00453",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2512-00453.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2512.00453"
+    },
+    "arxiv": "2512.00453"
+  },
+  {
+    "id": "journals-corr-abs-2509-04623",
+    "title": "Split Conformal Prediction in the Function Space with Neural Operators",
+    "authors": "David Millard, Lars Lindemann, Ali Baheri",
+    "year": "2025",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2509.04623",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2509-04623.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2509.04623"
+    },
+    "arxiv": "2509.04623"
+  },
+  {
+    "id": "journals-tecs-ZhaoYHFDL25",
+    "title": "STL-GO: Spatio-Temporal Logic with Graph Operators for Distributed Systems with Multiple Network Topologies",
+    "authors": "Yiqi Zhao, Xinyi Yu, Bardh Hoxha, Georgios Fainekos, Jyotirmoy Deshmukh, Lars Lindemann",
+    "year": "2025",
+    "type": "journal",
+    "venue": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3760258",
+    "sources": [
+      "https://dblp.org/rec/journals/tecs/ZhaoYHFDL25.bib",
+      "https://dblp.org/rec/journals/corr/abs-2507-15147.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1145/3760258",
+      "arXiv": "https://arxiv.org/abs/2507.15147"
+    },
+    "pages": "134:1–134:23",
+    "volume": "24",
+    "issue": "5s",
+    "arxiv": "2507.15147"
+  },
+  {
+    "id": "conf-icse-SabouriEZZMLC25",
+    "title": "Trust Dynamics in AI-Assisted Development: Definitions, Factors, and Implications",
+    "authors": "Sadra Sabouri, Philipp Eibl, Xinyi Zhou, Morteza Ziyadi, Nenad Medvidovic, Lars Lindemann, Souti Chattopadhyay",
+    "year": "2025",
+    "type": "conference",
+    "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
+    "url": "https://doi.org/10.1109/ICSE55347.2025.00199",
+    "sources": [
+      "https://dblp.org/rec/conf/icse/SabouriEZZMLC25.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/ICSE55347.2025.00199"
+    },
+    "pages": "1678–1690"
+  },
+  {
+    "id": "journals-automatica-XueLA24",
+    "title": "Chordal sparsity for SDP-based neural network verification",
+    "authors": "Anton Xue, Lars Lindemann, Rajeev Alur",
+    "year": "2024",
+    "type": "journal",
+    "venue": "Automatica",
+    "url": "https://doi.org/10.1016/j.automatica.2023.111487",
+    "sources": [
+      "https://dblp.org/rec/journals/automatica/XueLA24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2206-03482.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1016/j.automatica.2023.111487",
+      "arXiv": "https://arxiv.org/abs/2206.03482"
+    },
+    "pages": "111487",
+    "volume": "161",
+    "arxiv": "2206.03482"
+  },
+  {
+    "id": "conf-amcc-MarchesiniLLD24",
+    "title": "Communication-Constrained STL Task Decomposition Through Convex Optimization",
+    "authors": "Gregorio Marchesini, Siyuan Liu, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2024",
+    "type": "conference",
+    "venue": "American Control Conference (ACC)",
+    "url": "https://doi.org/10.23919/ACC60939.2024.10644859",
+    "sources": [
+      "https://dblp.org/rec/conf/amcc/MarchesiniLLD24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2402-17585.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ACC60939.2024.10644859",
+      "arXiv": "https://arxiv.org/abs/2402.17585"
+    },
+    "pages": "3517–3523",
+    "arxiv": "2402.17585"
+  },
+  {
+    "id": "journals-csysl-VlahakisLSD24",
+    "title": "Conformal Prediction for Distribution-Free Optimal Control of Linear Stochastic Systems",
+    "authors": "Eleftherios E. Vlahakis, Lars Lindemann, Pantelis Sopasakis, Dimos V. Dimarogonas",
+    "year": "2024",
+    "type": "journal",
+    "venue": "IEEE Control Systems Letters",
+    "url": "https://doi.org/10.1109/LCSYS.2024.3514472",
+    "sources": [
+      "https://dblp.org/rec/journals/csysl/VlahakisLSD24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2411-19132.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LCSYS.2024.3514472",
+      "arXiv": "https://arxiv.org/abs/2411.19132"
+    },
+    "pages": "2835–2840",
+    "volume": "8",
+    "arxiv": "2411.19132"
+  },
+  {
+    "id": "conf-aaai-Cleaveland0PL24",
+    "title": "Conformal Prediction Regions for Time Series Using Linear Complementarity Programming",
+    "authors": "Matthew Cleaveland, Insup Lee, George J. Pappas, Lars Lindemann",
+    "year": "2024",
+    "type": "conference",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "url": "https://doi.org/10.1609/aaai.v38i19.30089",
+    "sources": [
+      "https://dblp.org/rec/conf/aaai/Cleaveland0PL24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2304-01075.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1609/aaai.v38i19.30089",
+      "arXiv": "https://arxiv.org/abs/2304.01075"
+    },
+    "pages": "20984–20992",
+    "arxiv": "2304.01075"
+  },
+  {
+    "id": "journals-corr-abs-2402-07407",
+    "title": "Conformal Predictive Programming for Chance Constrained Optimization",
+    "authors": "Yiqi Zhao, Xinyi Yu, Matteo Sesia, Jyotirmoy V. Deshmukh, Lars Lindemann",
+    "year": "2024",
+    "type": "preprint",
+    "venue": "arXiv preprint",
+    "url": "https://arxiv.org/abs/2402.07407",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2402-07407.bib"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2402.07407"
+    },
+    "arxiv": "2402.07407"
+  },
+  {
+    "id": "conf-icml-ZhouLS24",
+    "title": "Conformalized Adaptive Forecasting of Heterogeneous Trajectories",
+    "authors": "Yanfei Zhou, Lars Lindemann, Matteo Sesia",
+    "year": "2024",
+    "type": "conference",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "url": "https://proceedings.mlr.press/v235/zhou24l.html",
+    "sources": [
+      "https://dblp.org/rec/conf/icml/ZhouLS24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2402-09623.bib"
+    ],
+    "links": {
+      "Publication": "https://proceedings.mlr.press/v235/zhou24l.html",
+      "arXiv": "https://arxiv.org/abs/2402.09623"
+    },
+    "pages": "62002–62056",
+    "volume": "235",
+    "arxiv": "2402.09623"
+  },
+  {
+    "id": "conf-cdc-Marchesini0LD24",
+    "title": "Decentralized Control of Multi-Agent Systems Under Acyclic Spatio-Temporal Task Dependencies",
+    "authors": "Gregorio Marchesini, Siyuan Liu, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2024",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC56724.2024.10885877",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/Marchesini0LD24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2409-05106.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC56724.2024.10885877",
+      "arXiv": "https://arxiv.org/abs/2409.05106"
+    },
+    "pages": "5211–5217",
+    "arxiv": "2409.05106"
+  },
+  {
+    "id": "conf-eucc-VlahakisLD24",
+    "title": "Distributed Sequential Receding Horizon Control of Multi-Agent Systems Under Recurring Signal Temporal Logic",
+    "authors": "Eleftherios E. Vlahakis, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2024",
+    "type": "conference",
+    "venue": "European Control Conference (ECC)",
+    "url": "https://doi.org/10.23919/ECC64448.2024.10590994",
+    "sources": [
+      "https://dblp.org/rec/conf/eucc/VlahakisLD24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2311-06890.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ECC64448.2024.10590994",
+      "arXiv": "https://arxiv.org/abs/2311.06890"
+    },
+    "pages": "305–310",
+    "arxiv": "2311.06890"
+  },
+  {
+    "id": "conf-cdc-KordabadVLDS24",
+    "title": "Distributionally Robust Control for Chance-Constrained Signal Temporal Logic Specifications",
+    "authors": "Arash Bahari Kordabad, Eleftherios E. Vlahakis, Lars Lindemann, Dimos V. Dimarogonas, Sadegh Soudjani",
+    "year": "2024",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC56724.2024.10886437",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/KordabadVLDS24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2409-03855.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC56724.2024.10886437",
+      "arXiv": "https://arxiv.org/abs/2409.03855"
+    },
+    "pages": "1593–1598",
+    "arxiv": "2409.03855"
+  },
+  {
+    "id": "journals-corr-abs-2111-09971",
+    "title": "Learning Robust Output Control Barrier Functions from Safe Expert Demonstrations",
+    "authors": "Lars Lindemann, Alexander Robey, Lejun Jiang, Satyajeet Das, Stephen Tu, Nikolai Matni",
+    "year": "2024",
+    "type": "journal",
+    "venue": "IEEE Open Journal of Control Systems",
+    "url": "https://doi.org/10.1109/OJCSYS.2024.3385348",
+    "sources": [
+      "https://dblp.org/rec/journals/corr/abs-2111-09971.bib",
+      "https://stephentu.github.io/"
+    ],
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2111.09971",
+      "Publication": "https://doi.org/10.1109/OJCSYS.2024.3385348"
+    },
+    "arxiv": "2111.09971",
+    "volume": "3",
+    "pages": "158–172"
+  },
+  {
+    "id": "conf-l4dc-TumuCMPL24",
+    "title": "Multi-modal conformal prediction regions by optimizing convex shape templates",
+    "authors": "Renukanandan Tumu, Matthew Cleaveland, Rahul Mangharam, George J. Pappas, Lars Lindemann",
+    "year": "2024",
+    "type": "conference",
+    "venue": "Learning for Dynamics and Control (L4DC)",
+    "url": "https://proceedings.mlr.press/v242/tumu24a.html",
+    "sources": [
+      "https://dblp.org/rec/conf/l4dc/TumuCMPL24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2312-07434.bib"
+    ],
+    "links": {
+      "Publication": "https://proceedings.mlr.press/v242/tumu24a.html",
+      "arXiv": "https://arxiv.org/abs/2312.07434"
+    },
+    "pages": "1343–1356",
+    "volume": "242",
+    "arxiv": "2312.07434"
+  },
+  {
+    "id": "conf-cdc-VlahakisLSD24",
+    "title": "Probabilistic Tube-based Control Synthesis of Stochastic Multi-Agent Systems under Signal Temporal Logic",
+    "authors": "Eleftherios E. Vlahakis, Lars Lindemann, Pantelis Sopasakis, Dimos V. Dimarogonas",
+    "year": "2024",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC56724.2024.10886279",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/VlahakisLSD24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2405-02827.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC56724.2024.10886279",
+      "arXiv": "https://arxiv.org/abs/2405.02827"
+    },
+    "pages": "1586–1592",
+    "arxiv": "2405.02827"
+  },
+  {
+    "id": "conf-iros-NawazPLFM24",
+    "title": "Reactive Temporal Logic-based Planning and Control for Interactive Robotic Tasks",
+    "authors": "Farhad Nawaz, Shaoting Peng, Lars Lindemann, Nadia Figueroa, Nikolai Matni",
+    "year": "2024",
+    "type": "conference",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "url": "https://doi.org/10.1109/IROS58592.2024.10802335",
+    "sources": [
+      "https://dblp.org/rec/conf/iros/NawazPLFM24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2404-19594.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/IROS58592.2024.10802335",
+      "arXiv": "https://arxiv.org/abs/2404.19594"
+    },
+    "pages": "12108–12115",
+    "arxiv": "2404.19594"
+  },
+  {
+    "id": "conf-l4dc-StamouliLP24",
+    "title": "Recursively feasible shrinking-horizon MPC in dynamic environments with conformal prediction guarantees",
+    "authors": "Charis J. Stamouli, Lars Lindemann, George J. Pappas",
+    "year": "2024",
+    "type": "conference",
+    "venue": "Learning for Dynamics and Control (L4DC)",
+    "url": "https://proceedings.mlr.press/v242/stamouli24a.html",
+    "sources": [
+      "https://dblp.org/rec/conf/l4dc/StamouliLP24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2405-10875.bib"
+    ],
+    "links": {
+      "Publication": "https://proceedings.mlr.press/v242/stamouli24a.html",
+      "arXiv": "https://arxiv.org/abs/2405.10875"
+    },
+    "pages": "1330–1342",
+    "volume": "242",
+    "arxiv": "2405.10875"
+  },
+  {
+    "id": "conf-iccps-ZhaoHFDL24",
+    "title": "Robust Conformal Prediction for STL Runtime Verification under Distribution Shift",
+    "authors": "Yiqi Zhao, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V. Deshmukh, Lars Lindemann",
+    "year": "2024",
+    "type": "conference",
+    "venue": "ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)",
+    "url": "https://doi.org/10.1109/ICCPS61052.2024.00022",
+    "sources": [
+      "https://dblp.org/rec/conf/iccps/ZhaoHFDL24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2311-09482.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/ICCPS61052.2024.00022",
+      "arXiv": "https://arxiv.org/abs/2311.09482"
+    },
+    "pages": "169–179",
+    "arxiv": "2311.09482"
+  },
+  {
+    "id": "conf-cdc-VerhagenLT24",
+    "title": "Robust STL Control Synthesis under Maximal Disturbance Sets",
+    "authors": "Joris Verhagen, Lars Lindemann, Jana Tumova",
+    "year": "2024",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC56724.2024.10886238",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/VerhagenLT24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2404-05535.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC56724.2024.10886238",
+      "arXiv": "https://arxiv.org/abs/2404.05535"
+    },
+    "pages": "315–321",
+    "arxiv": "2404.05535"
+  },
+  {
+    "id": "conf-memocode-BalakrishnanBNKZNMBDLD24",
+    "title": "Safety Assurance for Autonomous Systems with Multiple Sensor Modalities",
+    "authors": "Anand Balakrishnan, Rohit Bernard, Shreeram Narayanan, Vidisha Kudalkar, Yiqi Zhao, Parinitha Nagaraja, Georgi A. Markov, Christof J. Budnik, Helmut Degen, Lars Lindemann, Jyotirmoy V. Deshmukh",
+    "year": "2024",
+    "type": "conference",
+    "venue": "ACM/IEEE MEMOCODE",
+    "url": "https://doi.org/10.1109/MEMOCODE63347.2024.00018",
+    "sources": [
+      "https://dblp.org/rec/conf/memocode/BalakrishnanBNKZNMBDLD24.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/MEMOCODE63347.2024.00018"
+    },
+    "pages": "108–113"
+  },
+  {
+    "id": "conf-eucc-CoppolaPLM24",
+    "title": "Scenario Approach and Conformal Prediction for Verification of Unknown Systems via Data-Driven Abstractions",
+    "authors": "Rudi Coppola, Andrea Peruffo, Lars Lindemann, Manuel Mazo Jr.",
+    "year": "2024",
+    "type": "conference",
+    "venue": "European Control Conference (ECC)",
+    "url": "https://doi.org/10.23919/ECC64448.2024.10590827",
+    "sources": [
+      "https://dblp.org/rec/conf/eucc/CoppolaPLM24.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ECC64448.2024.10590827"
+    },
+    "pages": "558–563"
+  },
+  {
+    "id": "journals-ral-WangYZLY24",
+    "title": "Sleep When Everything Looks Fine: Self-Triggered Monitoring for Signal Temporal Logic Tasks",
+    "authors": "Chuwei Wang, Xinyi Yu, Jianing Zhao, Lars Lindemann, Xiang Yin",
+    "year": "2024",
+    "type": "journal",
+    "venue": "IEEE Robotics and Automation Letters",
+    "url": "https://doi.org/10.1109/LRA.2024.3455848",
+    "sources": [
+      "https://dblp.org/rec/journals/ral/WangYZLY24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2311-15531.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LRA.2024.3455848",
+      "arXiv": "https://arxiv.org/abs/2311.15531"
+    },
+    "pages": "8983–8990",
+    "volume": "9",
+    "issue": "10",
+    "arxiv": "2311.15531"
+  },
+  {
+    "id": "journals-tcad-HashemiLD24",
+    "title": "Statistical Reachability Analysis of Stochastic Cyber-Physical Systems Under Distribution Shift",
+    "authors": "Navid Hashemi, Lars Lindemann, Jyotirmoy V. Deshmukh",
+    "year": "2024",
+    "type": "journal",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/TCAD.2024.3438072",
+    "sources": [
+      "https://dblp.org/rec/journals/tcad/HashemiLD24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2407-11609.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/TCAD.2024.3438072",
+      "arXiv": "https://arxiv.org/abs/2407.11609"
+    },
+    "pages": "4250–4261",
+    "volume": "43",
+    "issue": "11",
+    "arxiv": "2407.11609"
+  },
+  {
+    "id": "conf-amcc-VerhagenLT24",
+    "title": "Temporally Robust Multi-Agent STL Motion Planning in Continuous Time",
+    "authors": "Joris Verhagen, Lars Lindemann, Jana Tumova",
+    "year": "2024",
+    "type": "conference",
+    "venue": "American Control Conference (ACC)",
+    "url": "https://doi.org/10.23919/ACC60939.2024.10644216",
+    "sources": [
+      "https://dblp.org/rec/conf/amcc/VerhagenLT24.bib",
+      "https://dblp.org/rec/journals/corr/abs-2310-10585.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ACC60939.2024.10644216",
+      "arXiv": "https://arxiv.org/abs/2310.10585"
+    },
+    "pages": "251–258",
+    "arxiv": "2310.10585"
+  },
+  {
+    "id": "conf-l4dc-DixitLWCPB23",
+    "title": "Adaptive Conformal Prediction for Motion Planning among Dynamic Agents",
+    "authors": "Anushri Dixit, Lars Lindemann, Skylar X. Wei, Matthew Cleaveland, George J. Pappas, Joel W. Burdick",
+    "year": "2023",
+    "type": "conference",
+    "venue": "Learning for Dynamics and Control (L4DC)",
+    "url": "https://proceedings.mlr.press/v211/dixit23a.html",
+    "sources": [
+      "https://dblp.org/rec/conf/l4dc/DixitLWCPB23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2212-00278.bib"
+    ],
+    "links": {
+      "Publication": "https://proceedings.mlr.press/v211/dixit23a.html",
+      "arXiv": "https://arxiv.org/abs/2212.00278"
+    },
+    "pages": "300–314",
+    "volume": "211",
+    "arxiv": "2212.00278"
+  },
+  {
+    "id": "journals-csysl-RodionovaLMP23",
+    "title": "Combined Left and Right Temporal Robustness for Control Under STL Specifications",
+    "authors": "Alëna Rodionova, Lars Lindemann, Manfred Morari, George J. Pappas",
+    "year": "2023",
+    "type": "journal",
+    "venue": "IEEE Control Systems Letters",
+    "url": "https://doi.org/10.1109/LCSYS.2022.3209928",
+    "sources": [
+      "https://dblp.org/rec/journals/csysl/RodionovaLMP23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2306-04936.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LCSYS.2022.3209928",
+      "arXiv": "https://arxiv.org/abs/2306.04936"
+    },
+    "pages": "619–624",
+    "volume": "7",
+    "arxiv": "2306.04936"
+  },
+  {
+    "id": "conf-allerton-LindemannQDP23",
+    "title": "Conformal Prediction for STL Runtime Verification",
+    "authors": "Lars Lindemann, Xin Qin, Jyotirmoy V. Deshmukh, George J. Pappas",
+    "year": "2023",
+    "type": "conference",
+    "venue": "Allerton Conference on Communication, Control, and Computing",
+    "url": "https://doi.org/10.1109/Allerton58177.2023.10313399",
+    "sources": [
+      "https://dblp.org/rec/conf/allerton/LindemannQDP23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2211-01539.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/Allerton58177.2023.10313399",
+      "arXiv": "https://arxiv.org/abs/2211.01539"
+    },
+    "pages": "1",
+    "arxiv": "2211.01539"
+  },
+  {
+    "id": "conf-iccps-LindemannQDP23",
+    "title": "Conformal Prediction for STL Runtime Verification",
+    "authors": "Lars Lindemann, Xin Qin, Jyotirmoy V. Deshmukh, George J. Pappas",
+    "year": "2023",
+    "type": "conference",
+    "venue": "ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)",
+    "url": "https://doi.org/10.1145/3576841.3585927",
+    "sources": [
+      "https://dblp.org/rec/conf/iccps/LindemannQDP23.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1145/3576841.3585927"
+    },
+    "pages": "142–153"
+  },
+  {
+    "id": "journals-ral-StrawnAL23",
+    "title": "Conformal Predictive Safety Filter for RL Controllers in Dynamic Environments",
+    "authors": "Kegan J. Strawn, Nora Ayanian, Lars Lindemann",
+    "year": "2023",
+    "type": "journal",
+    "venue": "IEEE Robotics and Automation Letters",
+    "url": "https://doi.org/10.1109/LRA.2023.3322644",
+    "sources": [
+      "https://dblp.org/rec/journals/ral/StrawnAL23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2306-02551.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LRA.2023.3322644",
+      "arXiv": "https://arxiv.org/abs/2306.02551"
+    },
+    "pages": "7833–7840",
+    "volume": "8",
+    "issue": "11",
+    "arxiv": "2306.02551"
+  },
+  {
+    "id": "conf-fmcad-QinHLD23",
+    "title": "Conformance Testing for Stochastic Cyber-Physical Systems",
+    "authors": "Xin Qin, Navid Hashemi, Lars Lindemann, Jyotirmoy V. Deshmukh",
+    "year": "2023",
+    "type": "conference",
+    "venue": "Formal Methods in Computer-Aided Design (FMCAD)",
+    "url": "https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_38",
+    "sources": [
+      "https://dblp.org/rec/conf/fmcad/QinHLD23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2308-06474.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_38",
+      "arXiv": "https://arxiv.org/abs/2308.06474"
+    },
+    "pages": "294–305",
+    "arxiv": "2308.06474"
+  },
+  {
+    "id": "conf-cdc-MehdifarLBD23",
+    "title": "Control of Nonlinear Systems Under Multiple Time-Varying Output Constraints: A Single Funnel Approach",
+    "authors": "Farhad Mehdifar, Lars Lindemann, Charalampos P. Bechlioulis, Dimos V. Dimarogonas",
+    "year": "2023",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC49753.2023.10383359",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/MehdifarLBD23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2307-06465.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC49753.2023.10383359",
+      "arXiv": "https://arxiv.org/abs/2307.06465"
+    },
+    "pages": "6743–6748",
+    "arxiv": "2307.06465"
+  },
+  {
+    "id": "conf-cdc-HashemiQLD23",
+    "title": "Data-Driven Reachability Analysis of Stochastic Dynamical Systems with Conformal Inference",
+    "authors": "Navid Hashemi, Xin Qin, Lars Lindemann, Jyotirmoy V. Deshmukh",
+    "year": "2023",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC49753.2023.10384213",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/HashemiQLD23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2309-09187.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC49753.2023.10384213",
+      "arXiv": "https://arxiv.org/abs/2309.09187"
+    },
+    "pages": "3102–3109",
+    "arxiv": "2309.09187"
+  },
+  {
+    "id": "conf-cdc-Yu0L23",
+    "title": "Efficient STL Control Synthesis Under Asynchronous Temporal Robustness Constraints",
+    "authors": "Xinyi Yu, Xiang Yin, Lars Lindemann",
+    "year": "2023",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC49753.2023.10384038",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/Yu0L23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2307-12855.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC49753.2023.10384038",
+      "arXiv": "https://arxiv.org/abs/2307.12855"
+    },
+    "pages": "6847–6854",
+    "arxiv": "2307.12855"
+  },
+  {
+    "id": "conf-ivs-TumuLNM23",
+    "title": "Physics Constrained Motion Prediction with Uncertainty Quantification",
+    "authors": "Renukanandan Tumu, Lars Lindemann, Truong Nghiem, Rahul Mangharam",
+    "year": "2023",
+    "type": "conference",
+    "venue": "IEEE Intelligent Vehicles Symposium (IV)",
+    "url": "https://doi.org/10.1109/IV55152.2023.10186812",
+    "sources": [
+      "https://dblp.org/rec/conf/ivs/TumuLNM23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2302-01060.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/IV55152.2023.10186812",
+      "arXiv": "https://arxiv.org/abs/2302.01060"
+    },
+    "pages": "1–8",
+    "arxiv": "2302.01060"
+  },
+  {
+    "id": "journals-tecs-LindemannJMP23",
+    "title": "Risk of Stochastic Systems for Temporal Logic Specifications",
+    "authors": "Lars Lindemann, Lejun Jiang, Nikolai Matni, George J. Pappas",
+    "year": "2023",
+    "type": "journal",
+    "venue": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3580490",
+    "sources": [
+      "https://dblp.org/rec/journals/tecs/LindemannJMP23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2205-14523.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1145/3580490",
+      "arXiv": "https://arxiv.org/abs/2205.14523"
+    },
+    "pages": "54:1–54:31",
+    "volume": "22",
+    "issue": "3",
+    "arxiv": "2205.14523"
+  },
+  {
+    "id": "conf-cdc-YangPML23",
+    "title": "Safe Perception-Based Control Under Stochastic Sensor Uncertainty Using Conformal Prediction",
+    "authors": "Shuo Yang, George J. Pappas, Rahul Mangharam, Lars Lindemann",
+    "year": "2023",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC49753.2023.10384075",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/YangPML23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2304-00194.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC49753.2023.10384075",
+      "arXiv": "https://arxiv.org/abs/2304.00194"
+    },
+    "pages": "6072–6078",
+    "arxiv": "2304.00194"
+  },
+  {
+    "id": "journals-ral-LindemannCSP23",
+    "title": "Safe Planning in Dynamic Environments Using Conformal Prediction",
+    "authors": "Lars Lindemann, Matthew Cleaveland, Gihyun Shim, George J. Pappas",
+    "year": "2023",
+    "type": "journal",
+    "venue": "IEEE Robotics and Automation Letters",
+    "url": "https://doi.org/10.1109/LRA.2023.3292071",
+    "sources": [
+      "https://dblp.org/rec/journals/ral/LindemannCSP23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2210-10254.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LRA.2023.3292071",
+      "arXiv": "https://arxiv.org/abs/2210.10254"
+    },
+    "pages": "5116–5123",
+    "volume": "8",
+    "issue": "8",
+    "arxiv": "2210.10254"
+  },
+  {
+    "id": "journals-tecs-RodionovaLMP23",
+    "title": "Temporal Robustness of Temporal Logic Specifications: Analysis and Control Design",
+    "authors": "Alëna Rodionova, Lars Lindemann, Manfred Morari, George J. Pappas",
+    "year": "2023",
+    "type": "journal",
+    "venue": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3550072",
+    "sources": [
+      "https://dblp.org/rec/journals/tecs/RodionovaLMP23.bib",
+      "https://dblp.org/rec/journals/corr/abs-2203-15661.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1145/3550072",
+      "arXiv": "https://arxiv.org/abs/2203.15661"
+    },
+    "pages": "13:1–13:44",
+    "volume": "22",
+    "issue": "1",
+    "arxiv": "2203.15661"
+  },
+  {
+    "id": "conf-cdc-XueLRHPA22",
+    "title": "Chordal Sparsity for Lipschitz Constant Estimation of Deep Neural Networks",
+    "authors": "Anton Xue, Lars Lindemann, Alexander Robey, Hamed Hassani, George J. Pappas, Rajeev Alur",
+    "year": "2022",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC51059.2022.9993136",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/XueLRHPA22.bib",
+      "https://dblp.org/rec/journals/corr/abs-2204-00846.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC51059.2022.9993136",
+      "arXiv": "https://arxiv.org/abs/2204.00846"
+    },
+    "pages": "3389–3396",
+    "arxiv": "2204.00846"
+  },
+  {
+    "id": "conf-amcc-RoqueSLD22",
+    "title": "Corridor MPC: Towards Optimal and Safe Trajectory Tracking",
+    "authors": "Pedro Roque, Wenceslao Shaw-Cortez, Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2022",
+    "type": "conference",
+    "venue": "American Control Conference (ACC)",
+    "url": "https://doi.org/10.23919/ACC53348.2022.9867764",
+    "sources": [
+      "https://dblp.org/rec/conf/amcc/RoqueSLD22.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ACC53348.2022.9867764"
+    },
+    "pages": "2025–2032"
+  },
+  {
+    "id": "journals-tac-LindemannPD22",
+    "title": "Reactive and Risk-Aware Control for Signal Temporal Logic",
+    "authors": "Lars Lindemann, George J. Pappas, Dimos V. Dimarogonas",
+    "year": "2022",
+    "type": "journal",
+    "venue": "IEEE Transactions on Automatic Control",
+    "url": "https://doi.org/10.1109/TAC.2021.3120681",
+    "sources": [
+      "https://dblp.org/rec/journals/tac/LindemannPD22.bib",
+      "https://dblp.org/rec/journals/corr/abs-2108-13490.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/TAC.2021.3120681",
+      "arXiv": "https://arxiv.org/abs/2108.13490"
+    },
+    "pages": "5262–5277",
+    "volume": "67",
+    "issue": "10",
+    "arxiv": "2108.13490"
+  },
+  {
+    "id": "journals-ai-CleavelandLIP22",
+    "title": "Risk verification of stochastic systems with neural network controllers",
+    "authors": "Matthew Cleaveland, Lars Lindemann, Radoslav Ivanov, George J. Pappas",
+    "year": "2022",
+    "type": "journal",
+    "venue": "Artificial Intelligence",
+    "url": "https://doi.org/10.1016/j.artint.2022.103782",
+    "sources": [
+      "https://dblp.org/rec/journals/ai/CleavelandLIP22.bib",
+      "https://dblp.org/rec/journals/corr/abs-2209-09881.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1016/j.artint.2022.103782",
+      "arXiv": "https://arxiv.org/abs/2209.09881"
+    },
+    "pages": "103782",
+    "volume": "313",
+    "arxiv": "2209.09881"
+  },
+  {
+    "id": "conf-amcc-SafaouiLSS22",
+    "title": "Risk-Bounded Temporal Logic Control of Continuous-Time Stochastic Systems",
+    "authors": "Sleiman Safaoui, Lars Lindemann, Iman Shames, Tyler H. Summers",
+    "year": "2022",
+    "type": "conference",
+    "venue": "American Control Conference (ACC)",
+    "url": "https://doi.org/10.23919/ACC53348.2022.9867734",
+    "sources": [
+      "https://dblp.org/rec/conf/amcc/SafaouiLSS22.bib",
+      "https://dblp.org/rec/journals/corr/abs-2204-04310.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ACC53348.2022.9867734",
+      "arXiv": "https://arxiv.org/abs/2204.04310"
+    },
+    "pages": "1555–1562",
+    "arxiv": "2204.04310"
+  },
+  {
+    "id": "conf-hybrid-LindemannRP22",
+    "title": "Temporal Robustness of Stochastic Signals",
+    "authors": "Lars Lindemann, Alëna Rodionova, George J. Pappas",
+    "year": "2022",
+    "type": "conference",
+    "venue": "ACM Hybrid Systems: Computation and Control (HSCC)",
+    "url": "https://doi.org/10.1145/3501710.3519504",
+    "sources": [
+      "https://dblp.org/rec/conf/hybrid/LindemannRP22.bib",
+      "https://dblp.org/rec/journals/corr/abs-2202-02583.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1145/3501710.3519504",
+      "arXiv": "https://arxiv.org/abs/2202.02583"
+    },
+    "pages": "10:1–10:11",
+    "arxiv": "2202.02583"
+  },
+  {
+    "id": "journals-tcst-LindemannNSGTD21",
+    "title": "Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks",
+    "authors": "Lars Lindemann, Jakub Nowak, Lukas Schönbächler, Meng Guo, Jana Tumova, Dimos V. Dimarogonas",
+    "year": "2021",
+    "type": "journal",
+    "venue": "IEEE Transactions on Control Systems Technology",
+    "url": "https://doi.org/10.1109/TCST.2019.2955628",
+    "sources": [
+      "https://dblp.org/rec/journals/tcst/LindemannNSGTD21.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/TCST.2019.2955628"
+    },
+    "pages": "858–865",
+    "volume": "29",
+    "issue": "2"
+  },
+  {
+    "id": "conf-adhs-RobeyLTM21",
+    "title": "Learning Robust Hybrid Control Barrier Functions for Uncertain Systems",
+    "authors": "Alexander Robey, Lars Lindemann, Stephen Tu, Nikolai Matni",
+    "year": "2021",
+    "type": "conference",
+    "venue": "IFAC Analysis and Design of Hybrid Systems (ADHS)",
+    "url": "https://doi.org/10.1016/j.ifacol.2021.08.465",
+    "sources": [
+      "https://dblp.org/rec/conf/adhs/RobeyLTM21.bib",
+      "https://dblp.org/rec/journals/corr/abs-2101-06492.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1016/j.ifacol.2021.08.465",
+      "arXiv": "https://arxiv.org/abs/2101.06492"
+    },
+    "pages": "1–6",
+    "volume": "54",
+    "issue": "5",
+    "arxiv": "2101.06492"
+  },
+  {
+    "id": "conf-cdc-LindemannCKP21",
+    "title": "Robust Motion Planning in the Presence of Estimation Uncertainty",
+    "authors": "Lars Lindemann, Matthew Cleaveland, Yiannis Kantaros, George J. Pappas",
+    "year": "2021",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC45484.2021.9683651",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LindemannCKP21.bib",
+      "https://dblp.org/rec/journals/corr/abs-2108-11983.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC45484.2021.9683651",
+      "arXiv": "https://arxiv.org/abs/2108.11983"
+    },
+    "pages": "5205–5212",
+    "arxiv": "2108.11983"
+  },
+  {
+    "id": "conf-cdc-LindemannMP21",
+    "title": "STL Robustness Risk over Discrete-Time Stochastic Processes",
+    "authors": "Lars Lindemann, Nikolai Matni, George J. Pappas",
+    "year": "2021",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC45484.2021.9683305",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LindemannMP21.bib",
+      "https://dblp.org/rec/journals/corr/abs-2104-01503.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC45484.2021.9683305",
+      "arXiv": "https://arxiv.org/abs/2104.01503"
+    },
+    "pages": "1329–1335",
+    "arxiv": "2104.01503"
+  },
+  {
+    "id": "conf-cdc-RodionovaLMP21",
+    "title": "Time-Robust Control for STL Specifications",
+    "authors": "Alëna Rodionova, Lars Lindemann, Manfred Morari, George J. Pappas",
+    "year": "2021",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC45484.2021.9683477",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/RodionovaLMP21.bib",
+      "https://dblp.org/rec/journals/corr/abs-2104-02677.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC45484.2021.9683477",
+      "arXiv": "https://arxiv.org/abs/2104.02677"
+    },
+    "pages": "572–579",
+    "arxiv": "2104.02677"
+  },
+  {
+    "id": "journals-tcns-LindemannD20",
+    "title": "Barrier Function Based Collaborative Control of Multiple Robots Under Signal Temporal Logic Tasks",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2020",
+    "type": "journal",
+    "venue": "IEEE Transactions on Control of Network Systems",
+    "url": "https://doi.org/10.1109/TCNS.2020.3014602",
+    "sources": [
+      "https://dblp.org/rec/journals/tcns/LindemannD20.bib",
+      "https://dblp.org/rec/journals/corr/abs-2102-02609.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/TCNS.2020.3014602",
+      "arXiv": "https://arxiv.org/abs/2102.02609"
+    },
+    "pages": "1916–1928",
+    "volume": "7",
+    "issue": "4",
+    "arxiv": "2102.02609"
+  },
+  {
+    "id": "conf-cdc-LindemannPD20",
+    "title": "Control Barrier Functions for Nonholonomic Systems under Risk Signal Temporal Logic Specifications",
+    "authors": "Lars Lindemann, George J. Pappas, Dimos V. Dimarogonas",
+    "year": "2020",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC42340.2020.9304056",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LindemannPD20.bib",
+      "https://arxiv.org/abs/2004.02111"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC42340.2020.9304056",
+      "arXiv": "https://arxiv.org/abs/2004.02111"
+    },
+    "pages": "1422–1428",
+    "arxiv": "2004.02111"
+  },
+  {
+    "id": "journals-csysl-SafaouiLDSS20",
+    "title": "Control Design for Risk-Based Signal Temporal Logic Specifications",
+    "authors": "Sleiman Safaoui, Lars Lindemann, Dimos V. Dimarogonas, Iman Shames, Tyler H. Summers",
+    "year": "2020",
+    "type": "journal",
+    "venue": "IEEE Control Systems Letters",
+    "url": "https://doi.org/10.1109/LCSYS.2020.2998543",
+    "sources": [
+      "https://dblp.org/rec/journals/csysl/SafaouiLDSS20.bib",
+      "https://dblp.org/rec/journals/corr/abs-2006-00317.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LCSYS.2020.2998543",
+      "arXiv": "https://arxiv.org/abs/2006.00317"
+    },
+    "pages": "1000–1005",
+    "volume": "4",
+    "issue": "4",
+    "arxiv": "2006.00317"
+  },
+  {
+    "id": "conf-amcc-LindemannD20",
+    "title": "Efficient Automata-based Planning and Control under Spatio-Temporal Logic Specifications",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2020",
+    "type": "conference",
+    "venue": "American Control Conference (ACC)",
+    "url": "https://doi.org/10.23919/ACC45564.2020.9147796",
+    "sources": [
+      "https://dblp.org/rec/conf/amcc/LindemannD20.bib",
+      "https://dblp.org/rec/journals/corr/abs-1909-11159.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ACC45564.2020.9147796",
+      "arXiv": "https://arxiv.org/abs/1909.11159"
+    },
+    "pages": "4707–4714",
+    "arxiv": "1909.11159"
+  },
+  {
+    "id": "conf-cdc-RobeyHLZDTM20",
+    "title": "Learning Control Barrier Functions from Expert Demonstrations",
+    "authors": "Alexander Robey, Haimin Hu, Lars Lindemann, Hanwen Zhang, Dimos V. Dimarogonas, Stephen Tu, Nikolai Matni",
+    "year": "2020",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC42340.2020.9303785",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/RobeyHLZDTM20.bib",
+      "https://dblp.org/rec/journals/corr/abs-2004-03315.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC42340.2020.9303785",
+      "arXiv": "https://arxiv.org/abs/2004.03315"
+    },
+    "pages": "3717–3724",
+    "arxiv": "2004.03315"
+  },
+  {
+    "id": "conf-corl-LindemannHRZDTM20",
+    "title": "Learning Hybrid Control Barrier Functions from Data",
+    "authors": "Lars Lindemann, Haimin Hu, Alexander Robey, Hanwen Zhang, Dimos V. Dimarogonas, Stephen Tu, Nikolai Matni",
+    "year": "2020",
+    "type": "conference",
+    "venue": "Conference on Robot Learning (CoRL)",
+    "url": "https://proceedings.mlr.press/v155/lindemann21a.html",
+    "sources": [
+      "https://dblp.org/rec/conf/corl/LindemannHRZDTM20.bib",
+      "https://dblp.org/rec/journals/corr/abs-2011-04112.bib"
+    ],
+    "links": {
+      "Publication": "https://proceedings.mlr.press/v155/lindemann21a.html",
+      "arXiv": "https://arxiv.org/abs/2011.04112"
+    },
+    "pages": "1351–1370",
+    "volume": "155",
+    "arxiv": "2011.04112"
+  },
+  {
+    "id": "phd-basesearch-Lindemann20",
+    "title": "Planning and Control of Multi-Agent Systems under Signal Temporal Logic Specifications",
+    "authors": "Lars Lindemann",
+    "year": "2020",
+    "type": "thesis",
+    "venue": "PhD thesis · KTH Royal Institute of Technology",
+    "url": "https://nbn-resolving.org/urn:nbn:se:kth:diva-281428",
+    "sources": [
+      "https://dblp.org/rec/phd/basesearch/Lindemann20.bib"
+    ],
+    "links": {
+      "Publication": "https://nbn-resolving.org/urn:nbn:se:kth:diva-281428"
+    }
+  },
+  {
+    "id": "conf-cdc-BarbosaLDT20",
+    "title": "Provably Safe Control of Lagrangian Systems in Obstacle-Scattered Environments",
+    "authors": "Fernando S. Barbosa, Lars Lindemann, Dimos V. Dimarogonas, Jana Tumova",
+    "year": "2020",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC42340.2020.9304160",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/BarbosaLDT20.bib",
+      "https://dblp.org/rec/journals/corr/abs-2009-02148.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC42340.2020.9304160",
+      "arXiv": "https://arxiv.org/abs/2009.02148"
+    },
+    "pages": "2056–2061",
+    "arxiv": "2009.02148"
+  },
+  {
+    "id": "journals-csysl-LindemannD19a",
+    "title": "Control Barrier Functions for Multi-Agent Systems Under Conflicting Local Signal Temporal Logic Tasks",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2019",
+    "type": "journal",
+    "venue": "IEEE Control Systems Letters",
+    "url": "https://doi.org/10.1109/LCSYS.2019.2917975",
+    "sources": [
+      "https://dblp.org/rec/journals/csysl/LindemannD19a.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LCSYS.2019.2917975"
+    },
+    "pages": "757–762",
+    "volume": "3",
+    "issue": "3"
+  },
+  {
+    "id": "journals-csysl-LindemannD19",
+    "title": "Control Barrier Functions for Signal Temporal Logic Tasks",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2019",
+    "type": "journal",
+    "venue": "IEEE Control Systems Letters",
+    "url": "https://doi.org/10.1109/LCSYS.2018.2853182",
+    "sources": [
+      "https://dblp.org/rec/journals/csysl/LindemannD19.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/LCSYS.2018.2853182"
+    },
+    "pages": "96–101",
+    "volume": "3",
+    "issue": "1"
+  },
+  {
+    "id": "conf-eucc-LindemannD19",
+    "title": "Decentralized Control Barrier Functions for Coupled Multi-Agent Systems under Signal Temporal Logic Tasks",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2019",
+    "type": "conference",
+    "venue": "European Control Conference (ECC)",
+    "url": "https://doi.org/10.23919/ECC.2019.8796109",
+    "sources": [
+      "https://dblp.org/rec/conf/eucc/LindemannD19.bib",
+      "https://dblp.org/rec/journals/corr/abs-2011-12775.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ECC.2019.8796109",
+      "arXiv": "https://arxiv.org/abs/2011.12775"
+    },
+    "pages": "89–94",
+    "arxiv": "2011.12775"
+  },
+  {
+    "id": "journals-automatica-LindemannD19a",
+    "title": "Feedback control strategies for multi-agent systems under a fragment of signal temporal logic tasks",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2019",
+    "type": "journal",
+    "venue": "Automatica",
+    "url": "https://doi.org/10.1016/j.automatica.2019.05.013",
+    "sources": [
+      "https://dblp.org/rec/journals/automatica/LindemannD19a.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1016/j.automatica.2019.05.013"
+    },
+    "pages": "284–293",
+    "volume": "106"
+  },
+  {
+    "id": "conf-eucc-BarbosaLDT19",
+    "title": "Integrated Motion Planning and Control Under Metric Interval Temporal Logic Specifications",
+    "authors": "Fernando S. Barbosa, Lars Lindemann, Dimos V. Dimarogonas, Jana Tumova",
+    "year": "2019",
+    "type": "conference",
+    "venue": "European Control Conference (ECC)",
+    "url": "https://doi.org/10.23919/ECC.2019.8795925",
+    "sources": [
+      "https://dblp.org/rec/conf/eucc/BarbosaLDT19.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ECC.2019.8795925"
+    },
+    "pages": "2042–2049"
+  },
+  {
+    "id": "journals-automatica-LindemannD19",
+    "title": "Robust control for signal temporal logic specifications using discrete average space robustness",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2019",
+    "type": "journal",
+    "venue": "Automatica",
+    "url": "https://doi.org/10.1016/j.automatica.2018.12.022",
+    "sources": [
+      "https://dblp.org/rec/journals/automatica/LindemannD19.bib",
+      "https://dblp.org/rec/journals/corr/LindemannD16.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1016/j.automatica.2018.12.022",
+      "arXiv": "https://arxiv.org/abs/1607.07019"
+    },
+    "pages": "377–387",
+    "volume": "101",
+    "arxiv": "1607.07019"
+  },
+  {
+    "id": "conf-amcc-LindemannD18",
+    "title": "Decentralized Robust Control of Coupled Multi-Agent Systems under Local Signal Temporal Logic Tasks",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2018",
+    "type": "conference",
+    "venue": "American Control Conference (ACC)",
+    "url": "https://doi.org/10.23919/ACC.2018.8431695",
+    "sources": [
+      "https://dblp.org/rec/conf/amcc/LindemannD18.bib",
+      "https://arxiv.org/abs/1709.07723"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ACC.2018.8431695",
+      "arXiv": "https://arxiv.org/abs/1709.07723"
+    },
+    "pages": "1567–1573",
+    "arxiv": "1709.07723"
+  },
+  {
+    "id": "conf-cdc-LindemannMBD18",
+    "title": "Event-triggered Feedback Control for Signal Temporal Logic Tasks",
+    "authors": "Lars Lindemann, Dipankar Maity, John S. Baras, Dimos V. Dimarogonas",
+    "year": "2018",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC.2018.8619000",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LindemannMBD18.bib",
+      "https://dblp.org/rec/journals/corr/abs-2011-12772.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC.2018.8619000",
+      "arXiv": "https://arxiv.org/abs/2011.12772"
+    },
+    "pages": "146–151",
+    "arxiv": "2011.12772"
+  },
+  {
+    "id": "conf-cdc-LindemannVD17",
+    "title": "Prescribed performance control for signal temporal logic specifications",
+    "authors": "Lars Lindemann, Christos K. Verginis, Dimos V. Dimarogonas",
+    "year": "2017",
+    "type": "conference",
+    "venue": "IEEE Conference on Decision and Control (CDC)",
+    "url": "https://doi.org/10.1109/CDC.2017.8264095",
+    "sources": [
+      "https://dblp.org/rec/conf/cdc/LindemannVD17.bib",
+      "https://arxiv.org/abs/1703.07094"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.1109/CDC.2017.8264095",
+      "arXiv": "https://arxiv.org/abs/1703.07094"
+    },
+    "pages": "2997–3002",
+    "arxiv": "1703.07094"
+  },
+  {
+    "id": "conf-amcc-LindemannD17",
+    "title": "Robust motion planning employing signal temporal logic",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2017",
+    "type": "conference",
+    "venue": "American Control Conference (ACC)",
+    "url": "https://doi.org/10.23919/ACC.2017.7963399",
+    "sources": [
+      "https://dblp.org/rec/conf/amcc/LindemannD17.bib",
+      "https://dblp.org/rec/journals/corr/LindemannD17.bib"
+    ],
+    "links": {
+      "Publication": "https://doi.org/10.23919/ACC.2017.7963399",
+      "arXiv": "https://arxiv.org/abs/1703.02075"
+    },
+    "pages": "2950–2955",
+    "arxiv": "1703.02075"
+  }
+]

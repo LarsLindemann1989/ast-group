@@ -1,0 +1,10 @@
+name: Algorithmic Systems Theory Laboratory
+short_name: AST Lab
+email: llindemann@ethz.ch
+scholar: https://scholar.google.com/citations?user=AkVKyzkAAAAJ&hl=en
+institution: Automatic Control Laboratory
+institution_url: https://control.ee.ethz.ch/
+address:
+- Physikstrasse 3
+- 8092 Zürich, Switzerland
+description: Algorithmic Systems Theory Laboratory at ETH Zürich. Systems and control theory, formal methods, and machine learning for safe autonomous systems.

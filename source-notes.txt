@@ -1,0 +1,45 @@
+Content migration source: https://sites.google.com/view/larslindemann/ast-lab
+Biography and teaching: main-page and teaching pages on the same site.
+Retrieved 15 November 2026. Team statuses are preserved as shown, including incoming and co-advised roles.
+Publications: https://arxiv.org/abs/2603.29868 ; https://proceedings.mlr.press/v331/mirzaeedodangeh26a.html ; https://arxiv.org/abs/2409.00536 ; https://www.research-collection.ethz.ch/entities/publication/1fb3a53b-32c3-4644-ad4e-c2c8f928bf9c
+ERC announcement: https://control.ee.ethz.ch/ (4 September 2026).
+Some Google-hosted portraits returned HTTP 403; initials used for those people.
+Hero paths are an original conceptual illustration, not computed research results.
+Homepage alternatives added 15 November 2026. Visual reference inspected: https://stanfordasl.github.io/ . No source code, branding, or media from that site is reused.
+Research figures (unmodified): https://arxiv.org/html/2603.29868v2/CAV_simulation_flypath_only.png ; https://arxiv.org/html/2603.29868v2/CAV_simulation_STR.png ; https://arxiv.org/html/2603.29868v2/waymo_paths.png ; https://arxiv.org/html/2409.00536v3/figures/pipeline.png . Captions and links identify the source papers.
+Hosting: https://ethz.ch/staffnet/en/service/communication/websites.html ; https://isg.ee.ethz.ch/services.html
+Before an official ETH launch: obtain the approved ETH short logo, complete institutional imprint/privacy text for the chosen host, confirm team status and contact details, request the ETH hostname.
+
+MERGED OPTION A — 15 November 2026
+All nine pages now share the selected white/sans-serif research-grid design.
+Original ETH SVG: unmodified svg element from the ETH homepage link in
+https://ethz.ch/staffnet/en/service/communication/corporate-design/farbe.html
+Palette: same official page; ETH Blue #215CAF, black, white, ETH Grey #6F6F6F,
+Grey120% #575757, Grey10% #F1F1F1, Blue10% #E9EFF7. Headings are black.
+Logo guidance: https://ethz.ch/staffnet/en/service/communication/corporate-design/logo.html
+Research/publication layout inspiration: stanfordasl.github.io/research/ and
+stanfordasl.github.io/publications/; no Stanford content, assets or code copied.
+
+PUBLICATION PROVENANCE
+Requested Google Scholar profile: AkVKyzkAAAAJ. Scholar returned an unusual-traffic
+block; no Scholar enumeration or completeness claim is made.
+DBLP cached bibliography https://dblp.org/pid/129/4750.html?view=bibtex
+(last updated 9 November 2026); 177 source records including preprints and datasets.
+arXiv API query au:Lindemann_Lars: 97 entries returned of 97 total.
+Raw metadata snapshots retained under data/. Excluded datasets and isolated 2011
+medical-equipment entry pending author-identity confirmation (data/review-items.json).
+Publication titles/authors of standalone arXiv entries use current API metadata.
+Exact normalised titles were used to attach preprints to published records, with
+explicit verified mappings for 2409.00536, 2312.07434, 1607.07019 and 2401.03997.
+Conference and journal records remain separate; duplicates across different
+publication venues are not silently collapsed.
+Additional verified publications / corrected status:
+- https://proceedings.mlr.press/v331/mirzaeedodangeh26a.html
+- https://proceedings.mlr.press/v331/rahaman26a.html
+- CSM survey: https://www.ieeecss.org/sites/ieeecss/files/documents/pcd/css_publications_content_digest_122025.pdf
+- Risk-aware robotics (2025): https://authors.library.caltech.edu/records/qmzy2-zer50
+- Robust output CBFs (OJ-CSYS 2024): https://stephentu.github.io/
+- Metriplectic dissipative dynamics (NeurIPS DynaFront workshop 2025):
+  https://alibaheri.github.io/publications/ (distinct from ECC 2026 title).
+The initial populated archive contains 108 paper entries and one PhD thesis.
+It requires reconciliation against a Scholar export before calling it complete.

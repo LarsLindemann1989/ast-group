@@ -1,0 +1,90 @@
+- name: Lars Lindemann
+  role: PI
+  interests: Systems & Control Theory, Formal Methods, and Machine Learning with applications in Autonomous Systems and Robotics
+  url: lars-lindemann.html
+  image: assets/person-0.jpg
+  group: Leadership
+- name: Panagiotis Trakas
+  role: Postdoctoral Researcher at ETH
+  interests: Nonlinear Adaptive Control; Learning-Based Feedback Control; Safety-Critical Autonomous Systems; Distributed Multi-Agent Systems
+  url: https://control.ee.ethz.ch/people/profile.panagiotis-trakas.html
+  image: assets/person-1.jpg
+  group: Postdoctoral researchers
+- name: Oliver Schön
+  role: Postdoctoral Researcher at ETH
+  interests: Safe and Trustworthy Autonomy; Formal Control Synthesis and Verification of Uncertain Stochastic Systems; Explainable AI; Semantic Abstractions; Sim-to-Real Quantification
+  url: https://www.linkedin.com/in/oliverschoen/
+  image: assets/person-2.jpg
+  group: Postdoctoral researchers
+- name: Omid Mirzaeedodangeh
+  role: PhD Student at ETH
+  interests: Interactive control among uncontrollable agents; uncertainty quantification in control
+  url: https://se.linkedin.com/in/omid-mirzaeedodangeh-484ba3145
+  image: assets/person-3.jpg
+  group: Doctoral researchers
+- name: Aron Karakai
+  role: PhD Student at ETH
+  interests: Spatiotemporal Robustness in Multi-agent Control; Systems Theory of Algorithms; Nonlinear Model Reduction for Control
+  url: https://www.linkedin.com/in/áron-karakai-159526163/?originalSubdomain=ch
+  image: assets/person-4.jpg
+  group: Doctoral researchers
+- name: Jan-Hendrik Schulz
+  role: Industrial PhD Student at ETH, with Volkswagen Nutzfahrzeuge
+  interests: Scalable and Compositional Formal Verification; AI-Assisted Formal Methods; Model-Based Systems Engineering, with applications to Cyber-Physical Systems
+  url: https://www.linkedin.com/in/jan-hendrikschulz/?locale=de
+  image: assets/person-5.jpg
+  group: Doctoral researchers
+- name: Lukas Schüepp
+  role: 'PhD Student at ETH, main advisor: Prof. Florian Dörfler'
+  interests: Uncertainty propagation in learning-enabled systems, uncertainty-aware control architectures
+  url: https://ch.linkedin.com/in/lukas-schüepp-9a631b262
+  image: null
+  group: Co-advised and affiliated researchers
+- name: Manuel Wendl
+  role: 'Incoming PhD Student at ETH, main advisor: Prof. Andreas Krause'
+  interests: Safe Exploration and Adaptation, Bayesian Learning, Reinforcement Learning
+  url: https://www.linkedin.com/in/manuel-wendl/
+  image: null
+  group: Co-advised and affiliated researchers
+- name: James King
+  role: 'PhD Student at ETH, main advisor: Prof. George Haller'
+  interests: Nonlinear Model Reduction, Flow Control, Spectral Submanifolds
+  url: https://www.linkedin.com/in/james-king-7995422b0/
+  image: null
+  group: Co-advised and affiliated researchers
+- name: Lukas Vogel
+  role: 'PhD Student at ETH, main advisor: Prof. Melanie Zeilinger'
+  interests: Safety-critical control; safe learning; latent dynamics and control
+  url: https://www.lukas-vogel.ch
+  image: assets/person-9.jpg
+  group: Co-advised and affiliated researchers
+- name: Gregorio Marchesini
+  role: 'PhD Student at KTH, main advisor: Prof. Dimos Dimarogonas'
+  interests: spatiotemporal planning and control, optimization, game theory
+  url: https://gregoriomarchesini.github.io
+  image: null
+  group: Co-advised and affiliated researchers
+- name: Joaquin Alvarez
+  role: PhD Student at USC, co-advised with Prof. Jyo Deshmukh
+  interests: Conformal prediction for dynamical systems
+  url: https://x.com/artisticml?lang=ar
+  image: assets/person-11.jpg
+  group: Co-advised and affiliated researchers
+- name: Paul Lutkus
+  role: PhD Student at USC, co-advised with Prof. Stephen Tu
+  interests: Latent Dynamics and Control; Safety; Reduced-Order Modeling; Output Feedback
+  url: https://paullutkus.github.io
+  image: assets/person-12.jpg
+  group: Co-advised and affiliated researchers
+- name: Grant Pauker
+  role: PhD Student at USC, co-advised with Prof. Stephen Tu
+  interests: Safe Autonomous Systems; Data-Driven Control; Nonlinear Control and Dynamics; Robotics
+  url: https://www.linkedin.com/in/grantpauker/
+  image: null
+  group: Co-advised and affiliated researchers
+- name: Ryan Rubel
+  role: PhD Student at USC, co-advised with Prof. Keenan Albee and Prof. Jyo Deshmukh
+  interests: Uncertainty-aware motion planning for space applications
+  url: https://www.linkedin.com/in/ryan-rubel-b3a3a219b/
+  image: null
+  group: Co-advised and affiliated researchers
