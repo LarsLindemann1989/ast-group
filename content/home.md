@@ -1,7 +1,7 @@
 ---
 title: |-
   Algorithmic Systems Theory
-  Laboratory
+  Group
 featured_people: 6
 selected_publications:
 - conf-cav-SchonL26

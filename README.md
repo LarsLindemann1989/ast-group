@@ -1,10 +1,10 @@
 # AST Group website
 
-[Live website](https://larslindemann1989.github.io/ast-lab/) · [Edit About the lab](https://github.com/LarsLindemann1989/ast-lab/edit/main/content/about.md) · [Edit research areas](https://github.com/LarsLindemann1989/ast-lab/tree/main/content/research)
+[Live website](https://larslindemann1989.github.io/ast-lab/) · [Edit About the group](https://github.com/LarsLindemann1989/ast-lab/edit/main/content/about.md) · [Edit research areas](https://github.com/LarsLindemann1989/ast-lab/tree/main/content/research)
 
-The Algorithmic Systems Theory Group at ETH Zürich. This is the GitHub Pages version of the selected lab design: ETH colours and logo, a flexible research grid, people, and publications grouped by year.
+The Algorithmic Systems Theory Group at ETH Zürich. This is the GitHub Pages version of the selected website design: ETH colours and logo, a flexible research grid, people, and publications grouped by year.
 
-**Start with [About the lab](content/about.md) or a [research area](content/research/).** You can edit the text in your web browser. No software installation is needed for ordinary updates.
+**Start with [About the group](content/about.md) or a [research area](content/research/).** You can edit the text in your web browser. No software installation is needed for ordinary updates.
 
 ## Change text in GitHub
 
@@ -12,16 +12,16 @@ The Algorithmic Systems Theory Group at ETH Zürich. This is the GitHub Pages ve
 2. Click the **pencil icon** (Edit this file).
 3. Change the text. Keep the settings between the two `---` lines at the top; ordinary paragraphs go below the second line.
 4. Click **Commit changes**, add a short description, and commit to `main`.
-5. Open the repository's **Actions** tab. Once “Build and publish lab website” is green, refresh the live site.
+5. Open the repository's **Actions** tab. Once “Build and publish group website” is green, refresh the live site.
 
-GitHub's **Preview** tab previews the Markdown text. The live website uses the lab's design. Publication normally follows the successful workflow within a few minutes. If a build fails, the last successfully published website remains online.
+GitHub's **Preview** tab previews the Markdown text. The live website uses the site's design. Publication normally follows the successful workflow within a few minutes. If a build fails, the last successfully published website remains online.
 
 For a change you want someone to review first, select **Create a new branch** when committing and open a pull request. It is checked automatically but only published after merging into `main`.
 
 | What you want to change | File |
 | --- | --- |
 | Main title, introductory paragraph, selected papers | [content/home.md](content/home.md) |
-| About the lab | [content/about.md](content/about.md) |
+| About the group | [content/about.md](content/about.md) |
 | Research page title and introduction | [content/research.md](content/research.md) |
 | Research areas, summaries, and detailed text | [content/research/](content/research/) |
 | News | [content/news/](content/news/) |
@@ -32,7 +32,7 @@ For a change you want someone to review first, select **Create a new branch** wh
 | Teaching introduction and student projects | [content/teaching.md](content/teaching.md) |
 | Course list | [data/courses.yaml](data/courses.yaml) |
 | Contact and recruitment text | [content/contact.md](content/contact.md) |
-| Email, address, lab name, and Scholar link | [site.yaml](site.yaml) |
+| Email, address, group name, and Scholar link | [site.yaml](site.yaml) |
 | Publications | [data/publications.json](data/publications.json) |
 | Publication page title and archive note | [content/publications.md](content/publications.md) |
 | Imprint and privacy text | [content/imprint.md](content/imprint.md), [content/privacy.md](content/privacy.md) |
@@ -43,7 +43,7 @@ For a change you want someone to review first, select **Create a new branch** wh
 Below the second `---` line, write ordinary paragraphs with a blank line between them:
 
 ```markdown
-Our lab studies the foundations of safe autonomous systems.
+Our group studies the foundations of safe autonomous systems.
 
 ### Current directions
 
@@ -107,7 +107,7 @@ These steps are needed once, by the repository owner:
 1. Create a **public** repository, for example `ast-lab`, with default branch `main`.
 2. Add this package's source files at the repository root, including `.github/workflows/pages.yml`. Upload the extracted files, not the ZIP file. The `.github` folder may be hidden in your file browser; make sure it is included.
 3. Open **Settings → Pages → Build and deployment → Source** and choose **GitHub Actions**.
-4. Open **Actions → Build and publish lab website → Run workflow** on `main`.
+4. Open **Actions → Build and publish group website → Run workflow** on `main`.
 5. After the deployment succeeds, open the website URL in **Settings → Pages** or the `github-pages` environment.
 
 A project repository named `ast-lab` normally publishes at `https://YOUR-ACCOUNT.github.io/ast-lab/`. This is an example, not an already-created site URL. The repository contents and the website are public. The included workflow uses GitHub's built-in token; no personal access token or extra secret needs to be saved in this repository.

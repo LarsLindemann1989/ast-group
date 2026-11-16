@@ -7,7 +7,7 @@ profile_url: https://control.ee.ethz.ch/people/profile.lars-lindemann.html
 
 ## Biography
 
-Lars Lindemann is an Assistant Professor at the Automatic Control Laboratory at ETH Zürich, where he leads the Algorithmic Systems Theory (AST) Laboratory. His research connects systems and control theory, formal methods, and machine learning, with applications in autonomous systems and robotics.
+Lars Lindemann is an Assistant Professor at the Automatic Control Laboratory at ETH Zürich, where he leads the Algorithmic Systems Theory (AST) Group. His research connects systems and control theory, formal methods, and machine learning, with applications in autonomous systems and robotics.
 
 He was an Assistant Professor at the University of Southern California from January 2023 to August 2025 and a Postdoctoral Fellow at the University of Pennsylvania from November 2020 to December 2022. He received his Ph.D. in Electrical Engineering from KTH Royal Institute of Technology in 2020.
 

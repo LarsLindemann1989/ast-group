@@ -1,4 +1,4 @@
-name: Build and publish lab website
+name: Build and publish group website
 
 on:
   push:

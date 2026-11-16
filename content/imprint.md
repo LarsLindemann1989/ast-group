@@ -15,4 +15,4 @@ Physikstrasse 3
 
 ## Hosting and credits
 
-This site is hosted on GitHub Pages. ETH Zürich branding belongs to ETH Zürich. Research illustrations are credited to the linked papers; photographs are retained from the existing lab homepage.
+This site is hosted on GitHub Pages. ETH Zürich branding belongs to ETH Zürich. Research illustrations are credited to the linked papers; photographs are retained from the existing group homepage.
