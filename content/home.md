@@ -9,4 +9,4 @@ selected_publications:
 - cp-survey-2025
 ---
 
-We develop theoretical foundations and efficient algorithms for safe, intelligent autonomous systems. Our research connects systems and control theory, formal methods, and machine learning.
+Building the foundations of safe, intelligent autonomy.
