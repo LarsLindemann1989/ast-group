@@ -1,6 +1,6 @@
 # AST Group website
 
-[Live website](https://larslindemann1989.github.io/ast-lab/) · [Edit About the group](https://github.com/LarsLindemann1989/ast-lab/edit/main/content/about.md) · [Edit research areas](https://github.com/LarsLindemann1989/ast-lab/tree/main/content/research)
+[Live website](https://larslindemann1989.github.io/ast-group/) · [Edit About the group](https://github.com/LarsLindemann1989/ast-group/edit/main/content/about.md) · [Edit research areas](https://github.com/LarsLindemann1989/ast-group/tree/main/content/research)
 
 The Algorithmic Systems Theory Group at ETH Zürich. This is the GitHub Pages version of the selected website design: ETH colours and logo, a flexible research grid, people, and publications grouped by year.
 
@@ -104,13 +104,13 @@ The migrated archive has **109 records: 108 paper entries and one thesis**. Goog
 
 These steps are needed once, by the repository owner:
 
-1. Create a **public** repository, for example `ast-lab`, with default branch `main`.
+1. Create a **public** repository, for example `ast-group`, with default branch `main`.
 2. Add this package's source files at the repository root, including `.github/workflows/pages.yml`. Upload the extracted files, not the ZIP file. The `.github` folder may be hidden in your file browser; make sure it is included.
 3. Open **Settings → Pages → Build and deployment → Source** and choose **GitHub Actions**.
 4. Open **Actions → Build and publish group website → Run workflow** on `main`.
 5. After the deployment succeeds, open the website URL in **Settings → Pages** or the `github-pages` environment.
 
-A project repository named `ast-lab` normally publishes at `https://YOUR-ACCOUNT.github.io/ast-lab/`. This is an example, not an already-created site URL. The repository contents and the website are public. The included workflow uses GitHub's built-in token; no personal access token or extra secret needs to be saved in this repository.
+A project repository named `ast-group` normally publishes at `https://YOUR-ACCOUNT.github.io/ast-group/`. This is an example, not an already-created site URL. The repository contents and the website are public. The included workflow uses GitHub's built-in token; no personal access token or extra secret needs to be saved in this repository.
 
 The footer's **Edit this page** link is generated automatically from the repository name during GitHub builds. On Research it opens the research content folder; on People and Publications it opens the corresponding data file. Only repository collaborators with write access can commit directly.
 
