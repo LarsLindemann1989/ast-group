@@ -61,12 +61,22 @@ The settings above the second `---` line use YAML. Keep field names unchanged. F
 
 ## Add a research area
 
-There is **no limit of three research areas**. One file supplies both the homepage card and the research page section.
+One Markdown file supplies both the homepage card and the research page section. The five current thrusts are:
+
+| Research thrust | Editable file |
+| --- | --- |
+| Statistical Foundations of Safe Autonomy | [content/research/statistical-safe-autonomy.md](content/research/statistical-safe-autonomy.md) |
+| Learning and Control | [content/research/learning-and-control.md](content/research/learning-and-control.md) |
+| Logic, Verification, and Synthesis | [content/research/logic-verification-synthesis.md](content/research/logic-verification-synthesis.md) |
+| Multi-Agent Coordination and Interaction | [content/research/multi-agent-coordination.md](content/research/multi-agent-coordination.md) |
+| Autonomy in Practice | [content/research/autonomy-in-practice.md](content/research/autonomy-in-practice.md) |
+
+Edit `summary` for the homepage card and the text below the second `---` for the full Research page description. Some section IDs retain their original names so existing links continue to work. Additional research areas can be added at any time:
 
 1. Open [templates/research-area.md](templates/research-area.md), click **Code** or **Raw**, and copy its full text, including the settings between `---` lines.
 2. In [content/research/](content/research/), select **Add file → Create new file**.
 3. Name it something like `robot-learning.md` and paste the template.
-4. Set a unique `id`, a `title`, a short `summary`, and an `order` number. Lower numbers appear first. Existing areas use 10, 20, and 30.
+4. Set a unique `id`, a `title`, a short `summary`, and an `order` number. Lower numbers appear first. Existing areas use 10, 20, 30, 40, and 50.
 5. Write the full description below the second `---`. Add as many paragraphs and subsections as you need.
 6. Commit the new file.
 

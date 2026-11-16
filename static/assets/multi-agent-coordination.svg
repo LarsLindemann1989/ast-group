@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" role="img" aria-labelledby="title desc">
+  <title id="title">Coordination through local interactions</title>
+  <desc id="desc">Five agents form a connected network. Each line denotes an interaction between two agents; the diagram illustrates distributed coordination without numerical performance claims.</desc>
+  <rect width="720" height="380" fill="#fff"/>
+  <g fill="none" stroke="#6F6F6F" stroke-width="2.5" stroke-linecap="round">
+    <path d="M360 65 580 165 495 305 225 305 140 165Z"/>
+    <path d="M140 165H580"/>
+    <path d="M360 65 495 305"/>
+  </g>
+  <path d="M225 305 360 65" fill="none" stroke="#215CAF" stroke-width="3"/>
+  <g fill="#E9EFF7" stroke="#215CAF" stroke-width="2.5">
+    <circle cx="360" cy="65" r="43"/>
+    <circle cx="580" cy="165" r="43"/>
+    <circle cx="495" cy="305" r="43"/>
+    <circle cx="225" cy="305" r="43"/>
+    <circle cx="140" cy="165" r="43"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#000" font-size="20">
+    <text x="360" y="60">Agent<tspan x="360" dy="26" font-size="25">1</tspan></text>
+    <text x="580" y="160">Agent<tspan x="580" dy="26" font-size="25">2</tspan></text>
+    <text x="495" y="300">Agent<tspan x="495" dy="26" font-size="25">3</tspan></text>
+    <text x="225" y="300">Agent<tspan x="225" dy="26" font-size="25">4</tspan></text>
+    <text x="140" y="160">Agent<tspan x="140" dy="26" font-size="25">5</tspan></text>
+  </g>
+</svg>

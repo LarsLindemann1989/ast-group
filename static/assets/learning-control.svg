@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" role="img" aria-labelledby="title desc">
+  <title id="title">Learning within a feedback control loop</title>
+  <desc id="desc">Observations from a system inform a learned model and a controller. The learned model supplies predictions to the controller, which supplies control inputs to the system.</desc>
+  <defs>
+    <marker id="blue-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#215CAF"/></marker>
+    <marker id="gray-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#6F6F6F"/></marker>
+  </defs>
+  <rect width="720" height="380" fill="#fff"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="M540 278V330H45V82H100" stroke="#6F6F6F" marker-end="url(#gray-arrow)"/>
+    <path d="M45 240H100" stroke="#6F6F6F" marker-end="url(#gray-arrow)"/>
+    <path d="M215 120V202" stroke="#215CAF" marker-end="url(#blue-arrow)"/>
+    <path d="M330 240H445" stroke="#215CAF" marker-end="url(#blue-arrow)"/>
+  </g>
+  <g stroke="#215CAF" stroke-width="2.5">
+    <rect x="100" y="44" width="230" height="76" rx="5" fill="#E9EFF7"/>
+    <rect x="100" y="202" width="230" height="76" rx="5" fill="#E9EFF7"/>
+    <rect x="445" y="202" width="190" height="76" rx="5" fill="#fff"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#000" font-size="26">
+    <text x="215" y="91">Learned model</text>
+    <text x="215" y="249">Controller</text>
+    <text x="540" y="249">System</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#6F6F6F" font-size="22">
+    <text x="235" y="169">Predictions</text>
+    <text x="388" y="220" text-anchor="middle">Control</text>
+    <text x="330" y="361" text-anchor="middle">Observations</text>
+  </g>
+  <circle cx="45" cy="240" r="4.5" fill="#6F6F6F"/>
+</svg>
