@@ -110,7 +110,7 @@ def page(file, title, body, active='', source='content/home.md'):
                     ('Publications', 'publications.html'), ('Teaching', 'teaching.html'), ('Contact', 'contact.html')])
     address = '<br>'.join(e(line) for line in D['address'])
     html = f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="description" content="{e(D['description'],quote=True)}"><title>{e(title)} · AST Group · ETH Zürich</title><link rel="stylesheet" href="styles.css"><script src="site.js" defer></script></head><body>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="description" content="{e(D['description'],quote=True)}"><title>{e(title)} · AST Group · ETH Zürich</title><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="hero-video.css"><script src="site.js" defer></script><script src="hero-video.js" defer></script></head><body>
 <a class="skip" href="#main">Skip to content</a><div class="institution"><div class="wrap institution-inner"><a class="eth" href="https://ethz.ch/en.html" aria-label="ETH Zürich homepage"><img src="assets/eth-zurich.svg" alt="ETH Zürich" width="180" height="30"></a>{link(D['institution_url'],e(D['institution']),'institution-name')}</div></div>
 <header class="header"><div class="wrap nav-row"><a class="brand" href="index.html">{e(D['short_name'])}</a><button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="nav">Menu <span aria-hidden="true">＋</span></button><nav id="nav" aria-label="Main navigation">{nav}</nav></div></header><main id="main">{body}</main>
 <footer><div class="wrap footer-top"><div><strong>{e(D['name'])}</strong><p>{e(D['institution'])} · ETH Zürich<br>{address}</p></div><div>{link('mailto:'+D['email'],e(D['email']))}<p>{link(D['scholar'],'Google Scholar')}&nbsp; · &nbsp;{link('contact.html','Contact')}</p></div></div><div class="wrap footer-bottom"><span>© {date.today().year} AST Group</span><div>{link('imprint.html','Imprint')}{link('privacy.html','Privacy')}{edit_link(source)}</div></div></footer></body></html>'''
@@ -132,7 +132,27 @@ for n in NEWS:
 limit = int(C['home'].get('featured_people', 6))
 if limit < 0:
     raise ValueError('content/home.md: featured_people must be zero or a positive integer.')
-home = f'''<section class="wrap hero"><p class="affiliation">{e(D['institution'])} · ETH Zürich</p><h1>{heading(C['home']['title'])}</h1><div class="intro-text markdown">{C['home']['html']}</div><div class="actions">{link('people.html','Meet our team →')}{link('contact.html','Work with us →')}</div></section><section class="wrap section home-research" id="research"><div class="section-heading inline"><h2>Research</h2>{link('research.html','Explore our research →','more-link')}</div>{research_cards()}</section><div class="soft-band" id="about"><div class="wrap two-column"><section><p class="eyebrow">About the group</p><h2>{heading(C['about']['title'])}</h2><div class="markdown">{C['about']['html']}</div>{link('lars-lindemann.html','About Lars Lindemann →','more-link')}</section><section><p class="eyebrow">Latest news</p>{news_html}</section></div></div><section class="wrap section"><div class="section-heading inline"><h2>People</h2>{link('people.html','All researchers & collaborators →','more-link')}</div><div class="people-grid home-people">{''.join(person(p,True) for p in PEOPLE[:limit])}</div></section><section class="wrap section selected-publications"><div class="section-heading inline"><h2>Selected publications</h2>{link('publications.html','Browse the publication archive →','more-link')}</div>{''.join(paper(BY_ID[pid],True) for pid in C['home'].get('selected_publications',[]))}</section>'''
+video_path = C['home'].get('hero_video')
+poster_path = C['home'].get('hero_poster')
+video_description = C['home'].get('hero_video_description', 'Research demonstration')
+hero_media = (
+    '<div class="hero-media">'
+    + f'<video class="hero-video" autoplay muted loop playsinline preload="metadata" aria-label="{e(video_description, quote=True)}"'
+    + (f' poster="{e(poster_path, quote=True)}"' if poster_path else '')
+    + f'><source src="{e(video_path, quote=True)}" type="video/mp4">Your browser does not support HTML5 video.</video>'
+    + '<button type="button" class="hero-video-toggle" aria-label="Pause video">Pause video</button>'
+    + '</div>'
+) if video_path else ''
+hero_class = 'hero has-media' if hero_media else 'hero'
+home_hero = (
+    f'<section class="wrap {hero_class}"><div class="hero-copy">'
+    f'<p class="affiliation">{e(D["institution"])} · ETH Zürich</p>'
+    f'<h1>{heading(C["home"]["title"])}</h1>'
+    f'<div class="intro-text markdown">{C["home"]["html"]}</div>'
+    f'<div class="actions">{link("people.html", "Meet our team →")}{link("contact.html", "Work with us →")}</div>'
+    f'</div>{hero_media}</section>'
+)
+home = home_hero + f'''<section class="wrap section home-research" id="research"><div class="section-heading inline"><h2>Research</h2>{link('research.html','Explore our research →','more-link')}</div>{research_cards()}</section><div class="soft-band" id="about"><div class="wrap two-column"><section><p class="eyebrow">About the group</p><h2>{heading(C['about']['title'])}</h2><div class="markdown">{C['about']['html']}</div>{link('lars-lindemann.html','About Lars Lindemann →','more-link')}</section><section><p class="eyebrow">Latest news</p>{news_html}</section></div></div><section class="wrap section"><div class="section-heading inline"><h2>People</h2>{link('people.html','All researchers & collaborators →','more-link')}</div><div class="people-grid home-people">{''.join(person(p,True) for p in PEOPLE[:limit])}</div></section><section class="wrap section selected-publications"><div class="section-heading inline"><h2>Selected publications</h2>{link('publications.html','Browse the publication archive →','more-link')}</div>{''.join(paper(BY_ID[pid],True) for pid in C['home'].get('selected_publications',[]))}</section>'''
 page('index.html', D['name'], home)
 
 body = intro('Research', C['research'])
