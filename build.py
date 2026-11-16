@@ -137,6 +137,7 @@ poster_path = C['home'].get('hero_poster')
 video_description = C['home'].get('hero_video_description', 'Research demonstration')
 hero_media = (
     '<div class="hero-media">'
+    + (f'<img class="hero-video-poster" src="{e(poster_path, quote=True)}" alt="{e(video_description, quote=True)}" aria-hidden="true">' if poster_path else '')
     + f'<video class="hero-video" autoplay muted loop playsinline preload="metadata" aria-label="{e(video_description, quote=True)}"'
     + (f' poster="{e(poster_path, quote=True)}"' if poster_path else '')
     + f'><source src="{e(video_path, quote=True)}" type="video/mp4">Your browser does not support HTML5 video.</video>'
