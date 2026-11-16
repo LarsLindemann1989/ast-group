@@ -1,4 +1,4 @@
-"""Build the AST Lab website. Edit content/*.md and data/*, not this file."""
+"""Build the AST Group website. Edit content/*.md and data/*, not this file."""
 import json
 import os
 import re
@@ -110,10 +110,10 @@ def page(file, title, body, active='', source='content/home.md'):
                     ('Publications', 'publications.html'), ('Teaching', 'teaching.html'), ('Contact', 'contact.html')])
     address = '<br>'.join(e(line) for line in D['address'])
     html = f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="description" content="{e(D['description'],quote=True)}"><title>{e(title)} · AST Lab · ETH Zürich</title><link rel="stylesheet" href="styles.css"><script src="site.js" defer></script></head><body>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="description" content="{e(D['description'],quote=True)}"><title>{e(title)} · AST Group · ETH Zürich</title><link rel="stylesheet" href="styles.css"><script src="site.js" defer></script></head><body>
 <a class="skip" href="#main">Skip to content</a><div class="institution"><div class="wrap institution-inner"><a class="eth" href="https://ethz.ch/en.html" aria-label="ETH Zürich homepage"><img src="assets/eth-zurich.svg" alt="ETH Zürich" width="180" height="30"></a>{link(D['institution_url'],e(D['institution']),'institution-name')}</div></div>
 <header class="header"><div class="wrap nav-row"><a class="brand" href="index.html">{e(D['short_name'])}</a><button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="nav">Menu <span aria-hidden="true">＋</span></button><nav id="nav" aria-label="Main navigation">{nav}</nav></div></header><main id="main">{body}</main>
-<footer><div class="wrap footer-top"><div><strong>{e(D['name'])}</strong><p>{e(D['institution'])} · ETH Zürich<br>{address}</p></div><div>{link('mailto:'+D['email'],e(D['email']))}<p>{link(D['scholar'],'Google Scholar')}&nbsp; · &nbsp;{link('contact.html','Contact')}</p></div></div><div class="wrap footer-bottom"><span>© {date.today().year} AST Lab</span><div>{link('imprint.html','Imprint')}{link('privacy.html','Privacy')}{edit_link(source)}</div></div></footer></body></html>'''
+<footer><div class="wrap footer-top"><div><strong>{e(D['name'])}</strong><p>{e(D['institution'])} · ETH Zürich<br>{address}</p></div><div>{link('mailto:'+D['email'],e(D['email']))}<p>{link(D['scholar'],'Google Scholar')}&nbsp; · &nbsp;{link('contact.html','Contact')}</p></div></div><div class="wrap footer-bottom"><span>© {date.today().year} AST Group</span><div>{link('imprint.html','Imprint')}{link('privacy.html','Privacy')}{edit_link(source)}</div></div></footer></body></html>'''
     (OUT / file).write_text(html, encoding='utf-8')
 
 

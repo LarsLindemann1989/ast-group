@@ -2,7 +2,7 @@
 title: Imprint
 ---
 
-This website presents the research and activities of the Algorithmic Systems Theory Laboratory at ETH Zürich.
+This website presents the research and activities of the Algorithmic Systems Theory Group at ETH Zürich.
 
 ## Content contact
 

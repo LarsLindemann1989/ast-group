@@ -1,8 +1,8 @@
-# AST Lab website
+# AST Group website
 
 [Live website](https://larslindemann1989.github.io/ast-lab/) · [Edit About the lab](https://github.com/LarsLindemann1989/ast-lab/edit/main/content/about.md) · [Edit research areas](https://github.com/LarsLindemann1989/ast-lab/tree/main/content/research)
 
-The Algorithmic Systems Theory Laboratory at ETH Zürich. This is the GitHub Pages version of the selected lab design: ETH colours and logo, a flexible research grid, people, and publications grouped by year.
+The Algorithmic Systems Theory Group at ETH Zürich. This is the GitHub Pages version of the selected lab design: ETH colours and logo, a flexible research grid, people, and publications grouped by year.
 
 **Start with [About the lab](content/about.md) or a [research area](content/research/).** You can edit the text in your web browser. No software installation is needed for ordinary updates.
 
