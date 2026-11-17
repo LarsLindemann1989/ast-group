@@ -6,10 +6,8 @@ tags:
 - Learning-based control
 - Barrier and Lyapunov methods
 - Policy adaptation
-image: assets/learning-control.svg
-image_alt: A learned model informs a controller, while observations from the system feed back into learning and control.
-image_source: ''
-image_credit: Conceptual illustration · AST Group
+image: assets/learning-and-control.webp
+image_alt: Diagram of stability regions and mappings between latent and original state spaces.
 papers:
 - journals-corr-abs-2606-15366
 - arxiv-2610.40931
