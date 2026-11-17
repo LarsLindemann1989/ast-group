@@ -6,10 +6,10 @@ tags:
 - Multi-agent systems
 - Distributed control
 - Interactive planning
-image: assets/multi-agent-coordination.svg
-image_alt: Five agents connected by local interaction links in a coordination network.
+image: assets/multi-agent-wildfire.webp
+image_alt: Six autonomous drones coordinating over a forest wildfire, connected by blue communication links and orange sensing links to fire hotspots.
 image_source: ''
-image_credit: Conceptual illustration · AST Group
+image_credit: AI-generated conceptual illustration · AST Group
 papers:
 - interactive-planning-2026
 - journals-tac-MarchesiniLLD26
