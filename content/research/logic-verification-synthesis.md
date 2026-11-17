@@ -6,10 +6,8 @@ tags:
 - Temporal logic
 - Spatiotemporal robustness
 - Verification and synthesis
-image: assets/robustness.png
-image_alt: Spatiotemporal robustness curves from the F-16 case study.
-image_source: https://arxiv.org/abs/2603.29868
-image_credit: Schön & Lindemann · CAV 2026
+image: assets/logic-verification-synthesis.webp
+image_alt: Temporal logic specification tree with avoidance, threat, and climb constraints.
 papers:
 - conf-cav-SchonL26
 - journals-tecs-RodionovaLMP23
