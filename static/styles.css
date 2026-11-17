@@ -6,3 +6,21 @@
 @media print{.menu-toggle,.publication-tools,.year-nav,.institution-name,footer,.paper-links{display:none}.wrap{width:100%;max-width:none}.publication-layout{display:block}body{font-size:11pt}.paper h3{font-size:12pt}a{color:#000}.institution-inner{min-height:60px}.nav-row{display:none}.page-intro{padding:20px 0}.paper{padding:12px 0}}
 /* Markdown keeps the original layout while allowing paragraphs, lists and links. */
 .markdown>p+p{margin-top:1em}.markdown ul,.markdown ol{padding-left:1.3em;color:var(--muted)}.markdown li+li{margin-top:.45em}.markdown h3{margin:28px 0 14px}.markdown img{max-width:100%;height:auto}.markdown pre{overflow:auto;background:var(--soft);padding:16px}.markdown table{border-collapse:collapse;width:100%}.markdown td,.markdown th{padding:8px;border:1px solid var(--line);text-align:left}.intro-text p{font:inherit}.research-markdown h3{font-size:21px}.news-item+.news-item{border-top:1px solid var(--line);padding-top:20px;margin-top:20px}.contact-card .markdown h3{font-size:16px}.contact-card .markdown{margin-bottom:24px}
+
+/* Balance the apparent size of the statistical and logic figures without cropping. */
+@media (min-width:1051px) {
+  .research-tile[data-research-id="safe-learning"] .research-image img { transform:scale(.68); }
+  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(1.23); transform-origin:left center; }
+  .research-detail[data-research-id="safe-learning"] .research-figure img { transform:scale(.68); }
+  .research-detail[data-research-id="formal-methods"] .research-figure img { transform:scale(1.15); transform-origin:left center; }
+}
+@media (min-width:761px) and (max-width:1050px) {
+  .research-tile[data-research-id="safe-learning"] .research-image img { transform:scale(.60); }
+  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(1.09); transform-origin:left center; }
+  .research-detail[data-research-id="safe-learning"] .research-figure img { transform:scale(.60); }
+  .research-detail[data-research-id="formal-methods"] .research-figure img { transform:scale(1.09); transform-origin:left center; }
+}
+@media (max-width:760px) {
+  .research-tile[data-research-id="safe-learning"] .research-image img { transform:scale(.57); }
+  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(1.025); transform-origin:left center; }
+}
