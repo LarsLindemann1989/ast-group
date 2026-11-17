@@ -10,17 +10,17 @@
 /* Balance the apparent size of the statistical and logic figures without cropping. */
 @media (min-width:1051px) {
   .research-tile[data-research-id="safe-learning"] .research-image img { transform:scale(.68); }
-  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(1.23); transform-origin:left center; }
+  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(1.014); transform-origin:left center; }
   .research-detail[data-research-id="safe-learning"] .research-figure img { transform:scale(.68); }
-  .research-detail[data-research-id="formal-methods"] .research-figure img { transform:scale(1.15); transform-origin:left center; }
+  .research-detail[data-research-id="formal-methods"] .research-figure img { transform:scale(.948); transform-origin:left center; }
 }
 @media (min-width:761px) and (max-width:1050px) {
   .research-tile[data-research-id="safe-learning"] .research-image img { transform:scale(.60); }
-  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(1.09); transform-origin:left center; }
+  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(.898); transform-origin:left center; }
   .research-detail[data-research-id="safe-learning"] .research-figure img { transform:scale(.60); }
-  .research-detail[data-research-id="formal-methods"] .research-figure img { transform:scale(1.09); transform-origin:left center; }
+  .research-detail[data-research-id="formal-methods"] .research-figure img { transform:scale(.898); transform-origin:left center; }
 }
 @media (max-width:760px) {
   .research-tile[data-research-id="safe-learning"] .research-image img { transform:scale(.57); }
-  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(1.025); transform-origin:left center; }
+  .research-tile[data-research-id="formal-methods"] .research-image img { transform:scale(.845); transform-origin:left center; }
 }

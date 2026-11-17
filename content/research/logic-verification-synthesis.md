@@ -6,8 +6,8 @@ tags:
 - Temporal logic
 - Spatiotemporal robustness
 - Verification and synthesis
-image: assets/logic-verification-synthesis.webp
-image_alt: Temporal logic specification tree with avoidance, threat, and climb constraints.
+image: assets/logic-predictive-state.webp
+image_alt: Predictive-state method combining temporal logic property masks, observation history, and satisfaction probability estimates.
 papers:
 - conf-cav-SchonL26
 - journals-tecs-RodionovaLMP23
