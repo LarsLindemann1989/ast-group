@@ -6,10 +6,8 @@ tags:
 - Conformal prediction
 - Sequential inference
 - Safety certification
-image: assets/control-pipeline.png
-image_alt: Predictive runtime verification workflows using conformal prediction.
-image_source: https://arxiv.org/abs/2409.00536
-image_credit: Lindemann et al. · Conformal prediction survey
+image: assets/statistical-safe-autonomy.jpg
+image_alt: Illustration of calibration data and conformal prediction supporting a safe autonomous robot trajectory.
 papers:
 - cp-survey-2025
 - conf-iccps-ZhaoHFDL24
