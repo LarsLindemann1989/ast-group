@@ -2,11 +2,10 @@
 title: |-
   Learn the foundations.
   Explore what comes next.
-description: Our interests span control theory, formal methods, and machine learning for autonomous systems.
 callout_title: Bring your curiosity.
-callout_link: https://control.ee.ethz.ch/
+callout_link: https://control.ee.ethz.ch/education/sa-ma-projects.html
 callout_label: Explore IfA opportunities →
-archive_note: Past courses taught by Lars Lindemann, from the existing homepage.
+archive_note: Past courses taught by Lars Lindemann.
 supervision_url: https://sites.google.com/view/larslindemann/teaching
 ---
 
