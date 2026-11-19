@@ -197,7 +197,7 @@ for p in P:
 
 c = C['teaching']
 body = intro('Teaching & student projects',c)
-body += '<section class="wrap student-callout"><div><p class="eyebrow">Student projects</p><h2>' + heading(c['callout_title']) + '</h2><div class="markdown">' + c['html'] + '</div></div>' + link(c['callout_link'],e(c['callout_label']),'button primary') + '</section><section class="wrap teaching-list"><h2 class="group-title">Teaching archive</h2><p class="muted">' + e(c['archive_note']) + '</p>'
+body += '<section class="wrap student-callout"><div><p class="eyebrow">Student projects</p><h2>' + heading(c['callout_title']) + '</h2><div class="markdown">' + c['html'] + '</div></div>' + link(c['callout_link'],e(c['callout_label']),'button primary') + '</section><section class="wrap teaching-list"><h2 class="group-title">Teaching archive</h2>'
 body += ''.join(f'<article class="course"><p class="eyebrow">{e(item["term"])}</p><div><h3>{e(item["title"])}</h3><p>{e(item["details"])}</p></div></article>' for item in COURSES)
 body += '</section>'
 page('teaching.html','Teaching',body,'Teaching','content/teaching.md')
