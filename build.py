@@ -209,7 +209,7 @@ page('lars-lindemann.html',c['title'],body,'People','content/lars-lindemann.md')
 
 c = C['contact']
 body = intro('Contact & opportunities',c)
-body += '<section class="wrap contact-grid"><div class="contact-card"><p class="eyebrow">Research & collaboration</p><div class="markdown">' + c['html'] + '</div>' + link('mailto:'+D['email'],e(D['email'])+' →','contact-email') + '</div><div class="address-card"><div class="map-mark" aria-hidden="true">Zürich<span>47.38° N / 8.55° E</span></div><p class="eyebrow">Visit us</p><h2>ETH Zürich</h2><address>' + '<br>'.join(e(s) for s in [D['institution'],D['name'],*D['address']]) + '</address>' + link(c['map_url'],'Open map →') + '</div></section>'
+body += '<section class="wrap contact-grid"><div class="contact-card"><p class="eyebrow">Research & collaboration</p><div class="markdown">' + c['html'] + '</div><p>Contact information: ' + link('mailto:'+D['email'],e(D['email'])) + '</p></div><div class="address-card"><div class="map-mark" aria-hidden="true">Zürich<span>47.38° N / 8.55° E</span></div><p class="eyebrow">Visit us</p><h2>ETH Zürich</h2><address>' + '<br>'.join(e(s) for s in [D['institution'],D['name'],*D['address']]) + '</address>' + link(c['map_url'],'Open map →') + '</div></section>'
 page('contact.html','Contact & opportunities',body,'Contact','content/contact.md')
 for key in ['imprint','privacy']:
     c = C[key]
