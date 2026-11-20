@@ -7,6 +7,4 @@ We welcome inquiries from prospective students and collaborators who have a genu
 
 Due to the high volume of inquiries, we unfortunately cannot respond to every email.
 
-### Students & prospective researchers
-
-For project inquiries, include your background, interests, and intended timeframe. See the [IfA website](https://control.ee.ethz.ch/) for current advertised opportunities.
+For job or student project opportunities inquiries, include your curriculum vitae, research interests, and intended timeframe.
