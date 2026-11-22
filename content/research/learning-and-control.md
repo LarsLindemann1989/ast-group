@@ -16,9 +16,9 @@ papers:
 summary: We integrate machine learning with control theory to design complex control systems that provably achieve their design objectives, while accounting for model uncertainty, limited data, and computational constraints.
 ---
 
-We learn control barrier functions (CBFs) from safe demonstrations to synthesize feedback controllers with safety guarantees. For prescribed-performance control (PPC), we jointly learn performance bounds and feedback laws from state trajectories, with guarantees on transient and steady-state behavior under input constraints.
+How can learning be used to design control systems that provably achieve their objectives? We study this question by combining machine learning with control-theoretic tools such as control barrier functions and prescribed-performance control. Our methods aim to turn data into controllers with guarantees on safety, stability, and performance.
 
-We also learn low-dimensional representations and dynamical models to simplify control design for complex systems. Our work establishes conditions under which stability and safety guarantees obtained in latent space carry over to the original system. We develop learning objectives that preserve the dynamical structure needed for feedback stabilization.
+We are particularly interested in settings where complex dynamics and high-dimensional state spaces make control design challenging. This motivates approaches ranging from learning controllers and safety certificates from data to learning latent representations that preserve the information needed for control.
 
 ### Current directions
 
