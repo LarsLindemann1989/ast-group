@@ -14,12 +14,10 @@ papers:
 summary: We integrate machine learning with control theory to design complex control systems that provably achieve their design objectives, while accounting for model uncertainty, limited data, and computational constraints.
 ---
 
-We develop control methods that use data and learned models while retaining a clear connection to system dynamics and constraints. Our interests include learning from imperfect observations, adapting controllers as new information becomes available, and combining learning with barrier and Lyapunov methods.
-
-A central challenge is that control decisions change the data a system encounters. We study how to account for this feedback when updating models and policies, with the aim of improving performance while preserving safety and stability guarantees under clearly stated assumptions.
+We combine learned dynamics and policies with barrier and Lyapunov methods to reason about safety and stability. Control decisions influence the data available for learning, so we study how this feedback affects model updates and controller adaptation. We seek methods that use data efficiently and remain computationally tractable under uncertainty.
 
 ### Current directions
 
-- Learning dynamical models and feedback policies from data.
-- Barrier and Lyapunov methods for safe and stabilizing control.
-- Policy adaptation and control under model and observation uncertainty.
+- Data-efficient learning of dynamical models and feedback policies.
+- Safety and stability under model and observation uncertainty.
+- Computationally tractable policy adaptation and control.

@@ -16,12 +16,10 @@ papers:
 summary: We connect theoretical advances with problems in robotics and autonomous systems through real-time capable algorithms, focusing on applications in autonomous driving, warehouse robotics, and wildfire monitoring.
 ---
 
-We use problems in autonomous systems to motivate our theoretical work and examine its practical implications. Application areas of interest include robotic motion planning, autonomous driving, and coordination among multiple robots, particularly when decisions must be made under uncertainty and time constraints.
-
-Our aim is to connect modeling, simulation, and experimental validation while examining how sensing limitations and computational budgets affect the use of our methods. These case studies help us identify which guarantees matter in practice and which theoretical questions arise when connecting algorithms to physical systems.
+We use modeling, simulation, and experimental evaluation to examine how sensing limitations, uncertainty, and computational budgets affect planning and control. These studies connect theoretical guarantees with the constraints of physical systems and guide algorithm design. A central goal is to support safe motion planning and coordination within the time available for each decision.
 
 ### Current directions
 
-- Robotic motion planning in dynamic environments.
-- Autonomous driving and interaction with other road users.
-- Simulation and experimental evaluation under sensing and timing constraints.
+- Motion planning and interaction in autonomous driving.
+- Coordination and control for warehouse robotics.
+- Planning and coordination for wildfire monitoring.

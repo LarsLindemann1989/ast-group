@@ -14,12 +14,10 @@ papers:
 summary: We use logic to express complex requirements, verify systems against them, and synthesize logic-based controllers, with a particular emphasis on system robustness and efficiency through neurosymbolic AI.
 ---
 
-We investigate how formal specifications can guide the design and operation of autonomous systems. Temporal logic provides a language for describing tasks that combine spatial requirements, temporal constraints, and logical structure. We develop methods for verification, predictive runtime monitoring, and controller synthesis, and study robustness to spatial and temporal perturbations.
-
-Our work also explores efficient optimization-based planning and the translation of natural-language instructions into formal specifications. The goal is to connect expressive task descriptions with computationally tractable methods for assessing and shaping system behavior.
+Temporal logic lets us describe requirements that combine spatial, temporal, and logical structure. We develop verification, predictive runtime monitoring, and controller synthesis methods, including neurosymbolic approaches that combine learning with symbolic reasoning. Our work examines robustness to perturbations, computationally efficient planning, and the translation of natural-language instructions into formal requirements.
 
 ### Current directions
 
-- Temporal logic and robustness to spatial and temporal uncertainty.
-- Formal verification and predictive runtime monitoring.
-- Specification-driven planning, controller synthesis, and natural-language interfaces.
+- Temporal logic and robustness to spatial and temporal perturbations.
+- Verification, runtime monitoring, and logic-based controller synthesis.
+- Neurosymbolic methods for efficient planning and control.
