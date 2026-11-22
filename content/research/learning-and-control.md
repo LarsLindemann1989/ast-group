@@ -11,6 +11,7 @@ image_alt: Diagram of stability regions and mappings between latent and original
 papers:
 - conf-cdc-RobeyHLZDTM20
 - journals-corr-abs-2111-09971
+- conf-corl-LindemannHRZDTM20
 - conf-cdc-LutkusWLT25
 - arxiv-2610.40931
 summary: We integrate machine learning with control theory to design complex control systems that provably achieve their design objectives, while accounting for model uncertainty, limited data, and computational constraints.
