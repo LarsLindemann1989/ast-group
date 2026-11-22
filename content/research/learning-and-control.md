@@ -22,6 +22,5 @@ We are particularly interested in settings where complex dynamics and high-dimen
 
 ### Current directions
 
-- Learning control barrier functions from demonstrations for safe feedback control.
-- Learning prescribed-performance controllers from state trajectories under input constraints.
-- Learning latent representations and dynamics for control with stability and safety guarantees.
+- Learning feedback controllers from expert demonstrations for safe and stability-preserving control.
+- Learning latent representations and dynamics for control with verifiable stability and safety guarantees.
