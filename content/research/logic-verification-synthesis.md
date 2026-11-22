@@ -11,7 +11,7 @@ image_alt: Predictive-state method combining temporal logic property masks, obse
 papers:
 - conf-cav-SchonL26
 - journals-tecs-RodionovaLMP23
-summary: We use logic to express complex tasks, verify system behavior, and synthesize controllers, with particular emphasis on how spatial uncertainty and timing variations affect autonomous decision making.
+summary: We use logic to express complex requirements, verify systems against such requirements, and synthesize logic-based controllers, with a particular emphasis on system robustness and reliability.
 ---
 
 We investigate how formal specifications can guide the design and operation of autonomous systems. Temporal logic provides a language for describing tasks that combine spatial requirements, temporal constraints, and logical structure. We develop methods for verification, predictive runtime monitoring, and controller synthesis, and study robustness to spatial and temporal perturbations.
