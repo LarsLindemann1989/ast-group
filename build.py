@@ -161,7 +161,7 @@ if C['research']['html']:
     body += '<div class="wrap prose">' + C['research']['html'] + '</div>'
 body += '<nav class="wrap research-index" aria-label="Research areas">' + ''.join(f'<a href="#{e(r["id"])}"><span>{i:02}</span>{e(r["title"])}<span aria-hidden="true">↓</span></a>' for i,r in enumerate(RESEARCH,1)) + '</nav>'
 for i,r in enumerate(RESEARCH,1):
-    body += f'<section class="wrap research-detail" id="{e(r["id"])}" data-research-id="{e(r["id"])}"><div class="research-detail-heading"><span class="area-number">{i:02}</span><h2>{e(r["title"])}</h2></div><div class="research-layout' + (' reverse' if i%2==0 else '') + '"><div class="research-description"><p class="lead">' + e(r['summary']) + '</p><div class="markdown research-markdown">' + r['html'] + '</div><div class="tags">' + ''.join('<span>'+e(t)+'</span>' for t in r.get('tags',[])) + '</div></div>' + research_image(r) + '</div>'
+    body += f'<section class="wrap research-detail" id="{e(r["id"])}" data-research-id="{e(r["id"])}"><div class="research-detail-heading"><span class="area-number">{i:02}</span><h2>{e(r["title"])}</h2></div><div class="research-layout' + (' reverse' if i%2==0 else '') + '"><div class="research-description"><p class="lead">' + e(r['summary']) + '</p><div class="markdown research-markdown">' + r['html'] + '</div></div>' + research_image(r) + '</div>'
     if r.get('papers'):
         body += '<div class="representative-papers"><h3>Representative papers</h3><ul>' + ''.join('<li>' + link(BY_ID[pid]['url'], e(BY_ID[pid]['title']), '') + '<span>' + e(BY_ID[pid]['venue']) + ' · ' + BY_ID[pid]['year'] + '</span></li>' for pid in r['papers']) + '</ul></div>'
     body += '</section>'
