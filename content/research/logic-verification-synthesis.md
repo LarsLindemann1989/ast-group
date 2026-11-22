@@ -18,7 +18,7 @@ summary: We use logic to express complex requirements, verify systems against th
 
 How can logic be used to express complex tasks and guide the behavior of autonomous systems? To answer this question, we combine temporal logic with formal verification and control theory. Our methods aim to turn high-level requirements into precise specifications and algorithms with guarantees on task satisfaction.
 
-We are particularly interested in connecting logical specifications with the dynamics and uncertainties of physical systems. This motivates approaches ranging from logic-based controllers that react to environmental changes and account for risk to quantifying and improving robustness to spatial and temporal perturbations. We also explore translating natural-language instructions into temporal logic specifications.
+A central theme is connecting logical specifications with the dynamics and uncertainties of physical systems. This motivates approaches ranging from logic-based controllers that react to environmental changes and account for risk to quantifying and improving robustness to spatial and temporal perturbations. We also explore translating natural-language instructions into temporal logic specifications.
 
 ### Current directions
 

@@ -20,7 +20,7 @@ summary: We study multi-agent systems that consist of multiple independent agent
 
 How can multiple autonomous agents coordinate to achieve individual and collective objectives? To answer this question, we combine multi-agent control theory with formal methods and graph-based reasoning. Our methods aim to connect local decisions and interactions with guarantees on collective behavior.
 
-We are particularly interested in settings where agents have coupled or conflicting tasks and interact through different communication and sensing networks. This motivates approaches ranging from multi-agent feedback control under temporal logic specifications to multi-agent logics and planning methods that capture spatial, temporal, and topological requirements across multiple network topologies.
+We consider settings where agents have coupled or conflicting tasks and interact through different communication and sensing networks. This motivates approaches ranging from multi-agent feedback control under temporal logic specifications to multi-agent logics and planning methods that capture spatial, temporal, and topological requirements across multiple network topologies.
 
 ### Current directions
 
