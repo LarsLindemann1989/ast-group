@@ -13,7 +13,7 @@ image_credit: Schön & Lindemann · CAV 2026
 papers:
 - journals-ral-LindemannCSP23
 - conf-iros-NawazPLFM24
-summary: We connect theoretical advances with problems in robotics and autonomous systems, using case studies to examine how safety, intelligent behavior, and computational efficiency can be achieved together.
+summary: We connect theoretical advances with problems in robotics and autonomous systems through real-time capable algorithms, focusing in particular on applications in autonomous driving, warehouse robotics, and wildfire monitoring.
 ---
 
 We use problems in autonomous systems to motivate our theoretical work and examine its practical implications. Application areas of interest include robotic motion planning, autonomous driving, and coordination among multiple robots, particularly when decisions must be made under uncertainty and time constraints.
