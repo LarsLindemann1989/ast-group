@@ -177,16 +177,20 @@ page('people.html','People',body,'People','data/people.yaml')
 
 years = sorted({p['year'] for p in P},reverse=True)
 body = intro('Publications',C['publications'])
-body += '<section class="wrap publications-section"><div class="publication-tools"><label class="search"><span>Search publications</span><input type="search" id="publication-search" placeholder="Title, author, venue, or year…"></label><label class="type-select"><span>Publication type</span><select id="publication-type"><option value="all">All types</option><option value="journal">Journal articles</option><option value="conference">Conference & workshop papers</option><option value="preprint">Preprints</option><option value="thesis">Thesis</option></select></label><button class="reset-filters" id="reset-filters">Reset</button></div><div class="archive-topline"><p id="result-count" aria-live="polite">' + str(len(P)) + ' records</p><div>' + link(D['scholar'],'Google Scholar →') + link('publications.bib','Download BibTeX ↓') + '</div></div><div class="publication-layout"><nav class="year-nav" aria-label="Publication years">' + ''.join(f'<a href="#year-{y}" data-year-link="{y}">{y}</a>' for y in years) + '</nav><div id="papers">'
+body += '<section class="wrap publications-section"><div class="publication-tools"><label class="search"><span>Search publications</span><input type="search" id="publication-search" placeholder="Title, author, venue, or year…"></label><label class="type-select"><span>Publication type</span><select id="publication-type"><option value="all">All types</option><option value="journal">Journal articles</option><option value="conference">Conference & workshop papers</option><option value="preprint">Preprints</option><option value="book">Books</option><option value="thesis">Thesis</option></select></label><button class="reset-filters" id="reset-filters">Reset</button></div><div class="archive-topline"><p id="result-count" aria-live="polite">' + str(len(P)) + ' records</p><div>' + link(D['scholar'],'Google Scholar →') + link('publications.bib','Download BibTeX ↓') + '</div></div><div class="publication-layout"><nav class="year-nav" aria-label="Publication years">' + ''.join(f'<a href="#year-{y}" data-year-link="{y}">{y}</a>' for y in years) + '</nav><div id="papers">'
 for y in years:
     body += f'<section class="publication-year" id="year-{y}" data-year-group="{y}"><h2>{y}<span>{sum(p["year"]==y for p in P)}</span></h2>' + ''.join(paper(p) for p in P if p['year']==y) + '</section>'
 body += '</div></div><p id="no-results" hidden>No matching publications. Try another title, author, or year.</p><aside class="source-note"><strong>About this archive</strong>' + C['publications']['html'] + '</aside></section>'
 page('publications.html','Publications',body,'Publications','data/publications.json')
 bib = []
 for p in P:
-    kind = {'journal':'article','conference':'inproceedings','preprint':'misc','thesis':'phdthesis'}[p['type']]
+    kind = {'journal':'article','conference':'inproceedings','preprint':'misc','thesis':'phdthesis','book':'book'}[p['type']]
     fields = {'title':p['title'],'author':p['authors'].replace(', ',' and '),'year':p['year'],'url':p['url']}
-    fields['journal' if kind=='article' else 'booktitle' if kind=='inproceedings' else 'note'] = p['venue']
+    fields['publisher' if kind=='book' else 'journal' if kind=='article' else 'booktitle' if kind=='inproceedings' else 'note'] = p['venue']
+    if kind == 'book':
+        for field in ['doi', 'isbn', 'series']:
+            if p.get(field):
+                fields[field] = str(p[field])
     if p.get('arxiv'):
         fields.update(eprint=p['arxiv'],archivePrefix='arXiv')
     for field in ['volume','pages','issue']:

@@ -11,15 +11,18 @@ image_alt: Six autonomous drones coordinating over a forest wildfire, connected 
 image_source: ''
 image_credit: AI-generated conceptual illustration · AST Group
 papers:
-- interactive-planning-2026
-- journals-tac-MarchesiniLLD26
+- journals-csysl-LindemannD19a
+- book-lindemann-dimarogonas-2025
+- journals-tecs-ZhaoYHFDL25
+- journals-corr-abs-2607-28679
 summary: We study multi-agent systems that consist of multiple independent agents, developing scalable methods for coordination and decision making that account for coupled specifications and the effects of interaction.
 ---
 
-We connect distributed control and formal specifications with planning under interaction. Our work examines how requirements for individual agents combine into collective tasks, and how one agent's decisions affect another's behavior. We seek scalable methods that coordinate these dependencies while linking local decisions to collective guarantees and accounting for communication constraints.
+How can multiple autonomous agents coordinate to achieve individual and collective objectives? To answer this question, we combine multi-agent control theory with formal methods and graph-based reasoning. Our methods aim to connect local decisions and interactions with guarantees on collective behavior.
+
+We are particularly interested in settings where agents have coupled or conflicting tasks and interact through different communication and sensing networks. This motivates approaches ranging from multi-agent feedback control under temporal logic specifications to multi-agent logics and planning methods that capture spatial, temporal, and topological requirements across multiple network topologies.
 
 ### Current directions
 
-- Distributed planning and control under coupled logical specifications.
-- Decision making that accounts for interactions between agents.
-- Scalable coordination under communication constraints.
+- Multi-agent feedback control under coupled and conflicting temporal logic tasks.
+- Multi-agent logics, distributed monitoring, and planning under spatial, temporal, and topological constraints.

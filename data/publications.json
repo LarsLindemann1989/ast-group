@@ -2030,5 +2030,26 @@
     },
     "pages": "2950–2955",
     "arxiv": "1703.02075"
+  },
+  {
+    "id": "book-lindemann-dimarogonas-2025",
+    "title": "Formal Methods for Multi-Agent Feedback Control Systems",
+    "authors": "Lars Lindemann, Dimos V. Dimarogonas",
+    "year": "2025",
+    "type": "book",
+    "venue": "The MIT Press",
+    "publisher": "The MIT Press",
+    "series": "Cyber-Physical Systems Series",
+    "url": "https://mitpress.mit.edu/9780262049719/formal-methods-for-multi-agent-feedback-control-systems/",
+    "doi": "10.7551/mitpress/15136.001.0001",
+    "isbn": "9780262049719",
+    "links": {
+      "Publisher": "https://mitpress.mit.edu/9780262049719/formal-methods-for-multi-agent-feedback-control-systems/",
+      "DOI": "https://doi.org/10.7551/mitpress/15136.001.0001"
+    },
+    "sources": [
+      "https://mitpress.mit.edu/9780262049719/formal-methods-for-multi-agent-feedback-control-systems/",
+      "https://api.crossref.org/works/10.7551/mitpress/15136.001.0001"
+    ]
   }
 ]
