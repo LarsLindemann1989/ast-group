@@ -13,6 +13,7 @@ papers:
 - cp-survey-2025
 - conf-iccps-LindemannQDP23
 - interactive-planning-2026
+- arxiv-2610.23746
 summary: We develop statistical methods to quantify uncertainty in learning-enabled systems and reason about safety from finite and evolving data, connecting conformal prediction and sequential hypothesis testing with decision making.
 ---
 
