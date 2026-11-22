@@ -14,7 +14,9 @@ papers:
 summary: We develop statistical methods to quantify uncertainty in learning-enabled systems and reason about safety from finite and evolving data, connecting conformal prediction and sequential hypothesis testing with decision making.
 ---
 
-Our methods turn observations into bounds on prediction errors and risk that can inform verification and control. We study settings where data arrive sequentially and environmental changes or updated policies alter their distribution. A central goal is to make the assumptions behind safety guarantees explicit and assess when those guarantees remain valid.
+How can data be used to obtain safety guarantees for autonomous systems? We study this question through statistical tools such as conformal prediction and sequential hypothesis testing. Our methods aim to turn observations into actionable confidence bounds of model and prediction errors.
+
+We are particularly interested in settings where observations arrive over time and change as a consequence of an evolving environment or interaction between data and the decision making system. This motivates approaches ranging from safety certification and predictive runtime verification to motion planning and robust control.
 
 ### Current directions
 
