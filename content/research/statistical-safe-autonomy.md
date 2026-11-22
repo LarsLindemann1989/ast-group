@@ -9,8 +9,10 @@ tags:
 image: assets/statistical-safe-autonomy.jpg
 image_alt: Illustration of calibration data and conformal prediction supporting a safe autonomous robot trajectory.
 papers:
+- journals-ral-LindemannCSP23
 - cp-survey-2025
-- conf-iccps-ZhaoHFDL24
+- conf-iccps-LindemannQDP23
+- interactive-planning-2026
 summary: We develop statistical methods to quantify uncertainty in learning-enabled systems and reason about safety from finite and evolving data, connecting conformal prediction and sequential hypothesis testing with decision making.
 ---
 
