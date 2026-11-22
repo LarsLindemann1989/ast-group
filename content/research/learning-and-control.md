@@ -16,9 +16,9 @@ papers:
 summary: We integrate machine learning with control theory to design complex control systems that provably achieve their design objectives, while accounting for model uncertainty, limited data, and computational constraints.
 ---
 
-How can learning be used to design control systems that provably achieve their objectives? We study this question by combining machine learning with control-theoretic tools such as control barrier functions and prescribed-performance control. Our methods aim to turn data into controllers with guarantees on safety, stability, and performance.
+How can data be used to design control systems that provably achieve their objectives? To answer this question, we combine machine learning tools with robust control theory. Our methods aim to turn data into feedback controllers with guarantees on safety, stability, and performance.
 
-We are particularly interested in settings where complex dynamics and high-dimensional state spaces make control design challenging. This motivates approaches ranging from learning controllers and safety certificates from data to learning latent representations that preserve the information needed for control.
+We are particularly interested in settings where complex dynamics and high-dimensional state spaces make control design challenging. This motivates approaches ranging from learning controllers and safety certificates from expert demonstrations to learning latent representations that preserve the information needed for verifiable control.
 
 ### Current directions
 
