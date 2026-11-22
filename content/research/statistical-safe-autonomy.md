@@ -20,6 +20,6 @@ We are particularly interested in settings where observations arrive over time a
 
 ### Current directions
 
-- Conformal prediction for trajectories, dynamical systems, and safety assessment.
-- Sequential hypothesis testing, e-values, and anytime-valid safety certification.
-- Statistical guarantees under distribution shifts and changing control policies.
+- Conformal prediction and safe control for dynamical systems.
+- Sequential hypothesis testing via e-values for anytime-valid decision making.
+- Statistical guarantees under distribution shifts, especially policy-induced distribution shifts.
