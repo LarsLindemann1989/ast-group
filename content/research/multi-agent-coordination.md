@@ -13,7 +13,7 @@ image_credit: AI-generated conceptual illustration · AST Group
 papers:
 - interactive-planning-2026
 - journals-tac-MarchesiniLLD26
-summary: We study autonomous systems that act alongside other agents, developing methods for coordination and decision making that account for coupled dynamics, uncertain behavior, and the effects of interaction.
+summary: We study multi-agent systems that consist of multiple independent agents, developing scalable methods for coordination and decision making that account for coupled specifications and the effects of interaction.
 ---
 
 We study how autonomous agents can coordinate their actions and make decisions in environments shaped by other decision makers. These settings introduce coupled dynamics, shared objectives or competing priorities, and uncertainty about how others will respond.
