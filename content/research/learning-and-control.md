@@ -11,7 +11,7 @@ image_alt: Diagram of stability regions and mappings between latent and original
 papers:
 - journals-corr-abs-2606-15366
 - arxiv-2610.40931
-summary: We integrate machine learning with control theory to design complex control systems that provably achieve their design objectives, while accounting for data efficiency and computational constraints.
+summary: We integrate machine learning with control theory to design complex control systems that provably achieve their design objectives, while accounting for model uncertainty, limited data, and computational constraints.
 ---
 
 We develop control methods that use data and learned models while retaining a clear connection to system dynamics and constraints. Our interests include learning from imperfect observations, adapting controllers as new information becomes available, and combining learning with barrier and Lyapunov methods.
