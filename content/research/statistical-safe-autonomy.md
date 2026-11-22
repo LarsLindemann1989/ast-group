@@ -19,7 +19,7 @@ summary: We develop statistical methods to quantify uncertainty in learning-enab
 
 How can data be used to obtain safety guarantees for autonomous systems? We study this question through statistical tools such as conformal prediction and sequential hypothesis testing. Our methods aim to turn observations into actionable confidence bounds of model and prediction errors.
 
-We are particularly interested in settings where observations arrive over time and change as a consequence of an evolving environment or interaction between data and the decision making system. This motivates approaches ranging from safety certification and predictive runtime verification to motion planning and robust control.
+We are particularly interested in settings where data arrives over time and where the underlying data distribution changes as a consequence of an evolving environment or interaction between data and the decision making system. This motivates approaches ranging from safety certification and predictive runtime verification to motion planning and robust control.
 
 ### Current directions
 
