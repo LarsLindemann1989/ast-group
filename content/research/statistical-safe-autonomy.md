@@ -11,7 +11,7 @@ image_alt: Illustration of calibration data and conformal prediction supporting 
 papers:
 - cp-survey-2025
 - conf-iccps-ZhaoHFDL24
-summary: We develop statistical methods to quantify uncertainty and reason about safety from finite and evolving data, connecting conformal prediction and sequential inference with autonomous decision making.
+summary: We develop statistical methods to quantify uncertainty in learning-enabled systems and reason about safety from finite and evolving data, connecting conformal prediction and sequential hypothesis testing with decision making.
 ---
 
 How can data support meaningful safety guarantees for autonomous systems? We study this question through conformal prediction, uncertainty quantification, and sequential statistical inference. Our methods aim to turn observations into actionable bounds on prediction errors and risk.
