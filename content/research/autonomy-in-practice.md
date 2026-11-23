@@ -11,8 +11,9 @@ image_alt: Vehicle and pedestrian trajectories in an autonomous driving case stu
 image_source: https://arxiv.org/abs/2603.29868
 image_credit: Schön & Lindemann · CAV 2026
 papers:
-- journals-ral-LindemannCSP23
-- conf-iros-NawazPLFM24
+- journals-corr-abs-2403-18972
+- conf-iccps-ZhaoHFDL24
+- conf-icra-DasCHLS26
 summary: We connect theoretical advances with problems in robotics and autonomous systems through real-time capable algorithms, focusing on applications in autonomous driving, warehouse robotics, and wildfire monitoring.
 ---
 
