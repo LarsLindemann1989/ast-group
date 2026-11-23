@@ -17,7 +17,7 @@ def venue(p):
     return e(s)
 
 def paper(p,with_year=False):
-    authors=e(p['authors']).replace('Lars Lindemann','<strong>Lars Lindemann</strong>')
+    authors=e(p['authors'])
     links=''.join(link(url,e(label)+' →','paper-link') for label,url in p.get('links',{}).items())
     search=e((p['title']+' '+p['authors']+' '+p['venue']+' '+p['year']).casefold(),quote=True)
     return f'<article class="paper" id="{e(p["id"])}" data-type="{e(p["type"])}" data-year="{p["year"]}" data-search="{search}">'+(f'<span class="paper-year">{p["year"]}</span>' if with_year else '')+f'<div class="paper-content"><h3>{link(p["url"],e(p["title"]),"")}</h3><p class="authors">{authors}</p><p class="venue">{venue(p)}</p><div class="paper-links">{links}</div></div></article>'
