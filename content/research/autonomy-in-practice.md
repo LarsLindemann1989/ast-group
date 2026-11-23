@@ -16,7 +16,7 @@ papers:
 summary: We connect theoretical advances with problems in robotics and autonomous systems through real-time capable algorithms, focusing on applications in autonomous driving, warehouse robotics, and wildfire monitoring.
 ---
 
-We use modeling, simulation, and experimental evaluation to examine how sensing limitations, uncertainty, and computational budgets affect planning and control. These studies connect theoretical guarantees with the constraints of physical systems and guide algorithm design. A central goal is to support safe motion planning and coordination within the time available for each decision.
+We use high-fidelity simulations and experimental evaluation to validate our algorithms and to examine how sensing limitations, uncertainty, and computational constraints affect real-time planning and control. These studies connect theoretical guarantees with real-world constraints and ultimately guide algorithm design. We consider robotics and autonomy applications specifically in the areas of autonomous driving, warehouse robotics, and wildfire monitoring
 
 ### Current directions
 
