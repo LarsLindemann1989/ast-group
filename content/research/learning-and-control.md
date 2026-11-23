@@ -19,7 +19,7 @@ summary: We integrate machine learning with control theory to design complex con
 
 How can data be used to design control systems that provably achieve their objectives? To answer this question, we combine machine learning tools with robust control theory. Our methods aim to turn data into feedback controllers with guarantees on safety, stability, and performance.
 
-Complex dynamics and high-dimensional state spaces pose particular challenges for control design. This motivates approaches ranging from learning controllers and safety certificates from expert demonstrations to learning latent representations that preserve the information needed for verifiable control.
+Complex dynamics and high-dimensional state spaces pose particular challenges for control design. This motivates approaches ranging from learning controllers and control certificates from expert demonstrations to learning latent representations that preserve the information needed for verifiable control.
 
 ### Current directions
 
