@@ -127,7 +127,7 @@
     "year": "2026",
     "type": "conference",
     "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
-    "url": "https://doi.org/10.1109/ICRA57385.2026.11696670",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11696670/",
     "sources": [
       "https://dblp.org/rec/conf/icra/DasCHLS26.bib",
       "https://dblp.org/rec/journals/corr/abs-2509-20623.bib"
@@ -728,7 +728,7 @@
     "year": "2025",
     "type": "journal",
     "venue": "IEEE Control Systems Magazine",
-    "url": "https://doi.org/10.1109/MCS.2025.3577050",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11123462/",
     "sources": [
       "https://dblp.org/rec/journals/corr/abs-2403-18972.bib",
       "https://authors.library.caltech.edu/records/qmzy2-zer50"
@@ -1087,7 +1087,7 @@
     "year": "2024",
     "type": "conference",
     "venue": "ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)",
-    "url": "https://doi.org/10.1109/ICCPS61052.2024.00022",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10571640/",
     "sources": [
       "https://dblp.org/rec/conf/iccps/ZhaoHFDL24.bib",
       "https://dblp.org/rec/journals/corr/abs-2311-09482.bib"
