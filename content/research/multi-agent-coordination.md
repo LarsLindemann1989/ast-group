@@ -25,4 +25,4 @@ We consider settings where agents have coupled or conflicting tasks and interact
 ### Current directions
 
 - Multi-agent feedback control under coupled and conflicting temporal logic tasks.
-- Multi-agent logics, distributed monitoring, and planning under spatial, temporal, and topological constraints.
+- Distributed monitoring and planning under spatial, temporal, and topological constraints.
