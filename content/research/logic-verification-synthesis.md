@@ -16,9 +16,9 @@ papers:
 summary: We use logic to express complex requirements, verify systems against them, and synthesize logic-based controllers, with a particular emphasis on system robustness and efficiency through neurosymbolic AI.
 ---
 
-How can logic be used to express complex tasks and guide the behavior of autonomous systems? To answer this question, we combine temporal logic with formal verification and control theory. Our methods aim to turn high-level requirements into precise specifications and algorithms with guarantees on task satisfaction.
+How can logic be used to express complex requirements and guide an autonomous system to implement them? To answer this question, we combine logic with formal verification and control synthesis. Our methods aim to turn high-level requirements into mathematical specifications and algorithms with guarantees on task satisfaction.
 
-A central theme is connecting logical specifications with the dynamics and uncertainties of physical systems. This motivates approaches ranging from logic-based controllers that react to environmental changes and account for risk to quantifying and improving robustness to spatial and temporal perturbations. We also explore translating natural-language instructions into temporal logic specifications.
+A central theme is connecting logical specifications with the dynamics and uncertainties of dynamical systems. This motivates approaches ranging from logic-based controllers that navigate computational trade-offs to quantifying and improving robustness of autonomous systems under logic specifications. We also explore translating natural language instructions into temporal logic specifications.
 
 ### Current directions
 
