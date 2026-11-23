@@ -22,6 +22,6 @@ A central theme is connecting logical specifications with the dynamics and uncer
 
 ### Current directions
 
-- Logic-based controller synthesis for reactive and risk-aware task execution.
-- Temporal and spatiotemporal robustness of logical specifications.
-- Translation of natural-language instructions into temporal logic specifications.
+- Logic-based verification and controller synthesis.
+- Robustness of dynamical systems under logic specifications.
+- Translation of natural language instructions into temporal logic specifications.
