@@ -20,6 +20,5 @@ We use high-fidelity simulations and experimental evaluation to validate our alg
 
 ### Current directions
 
-- Motion planning and interaction in autonomous driving.
-- Coordination and control for warehouse robotics.
-- Planning and coordination for wildfire monitoring.
+- Autonomous driving, warehouse robotics, and wildfire monitoring
+- Sim-to-real transfer and robustness.
