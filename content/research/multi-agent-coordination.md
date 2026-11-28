@@ -6,8 +6,8 @@ tags:
 - Multi-agent systems
 - Distributed control
 - Interactive planning
-image: assets/multi-agent-wildfire-graph-landscape.webp
-image_alt: Six autonomous drones coordinating over a forest wildfire, connected by blue communication links and orange sensing links to fire hotspots.
+image: assets/multi-agent-wildfire-blue-network.png
+image_alt: Five autonomous drones coordinating over a forest wildfire, connected by dashed blue communication links.
 image_source: ''
 image_credit: AI-generated conceptual illustration · AST Group
 papers:
