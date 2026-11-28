@@ -7,6 +7,7 @@ tags:
 - Distributed control
 - Interactive planning
 image: assets/multi-agent-wildfire-blue-network.png
+image_crop: [350, 180, 1550, 855]
 image_alt: Five autonomous drones coordinating over a forest wildfire, connected by dashed blue communication links.
 image_source: ''
 image_credit: AI-generated conceptual illustration · AST Group

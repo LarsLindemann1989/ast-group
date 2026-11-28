@@ -10,6 +10,7 @@ from urllib.parse import quote
 
 import markdown
 import yaml
+from PIL import Image
 from render_cards import link, paper, person, research_image
 
 ROOT = Path(__file__).resolve().parent
@@ -92,6 +93,14 @@ for pid in C['home'].get('selected_publications', []):
 if OUT.exists():
     shutil.rmtree(OUT)
 shutil.copytree(ROOT / 'static', OUT)
+# Create optional research image crops from the original assets without resampling.
+for r in RESEARCH:
+    if 'image_crop' in r:
+        source = OUT / r['image']
+        target = source.with_name(source.stem + '-crop.png')
+        with Image.open(source) as original:
+            original.crop(tuple(r['image_crop'])).save(target)
+        r['image'] = target.relative_to(OUT).as_posix()
 repo = os.environ.get('GITHUB_REPOSITORY', '')
 branch = os.environ.get('SITE_EDIT_BRANCH', 'main')
 
